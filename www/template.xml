@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<yml_catalog date="2016-12-05 10:45">
+	<shop>
+		<offers>
+			<offer id="1">
+				<name>Карабин Heym кал: 30-06 Spr, доп. ствол калибров: 243 Win и 9,3 х 62, ствол: 60 см.</name>
+				<url>http://safari-ukraina.com/karabin-heym-30-06-243win/p166977/</url>
+				<price>290000</price>
+			</offer>
+			<offer id="2">
+				<name>Карабин Heym кал: 30-06 Spr, доп. ствол калибров: 243 Win и 9,3 х 62, ствол: 60 см.</name>
+				<url>http://safari-ukraina.com/karabin-heym-30-06-243win/p166977/</url>
+				<price>290000</price>
+			</offer>
+			<offer id="3">
+				<name>Карабин Heym кал: 30-06 Spr, доп. ствол калибров: 243 Win и 9,3 х 62, ствол: 60 см.</name>
+				<url>http://safari-ukraina.com/karabin-heym-30-06-243win/p166977/</url>
+				<price>290000</price>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

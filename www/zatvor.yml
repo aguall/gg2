@@ -1,0 +1,2437 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE yml_catalog SYSTEM "/Users/rainx/WebstormProjects/partner/pages/help/shops.dtd">
+<yml_catalog date="2017-01-16 18:06">
+	<shop>
+		<name>zatvor.com.ua</name>
+		<company>zatvor.com.ua</company>
+		<url>http://zatvor.com.ua/</url>
+
+		<currencies>
+			<currency id="UAH" rate="1" />
+		</currencies>
+
+		<categories>
+			<category id="1212">Пневматические винтовки</category>
+			<category id="1213">Пневматические пистолеты</category>
+			<category id="1210">Оружие под патрон Флобера</category>
+			<category id="1266">Пули для пневматического оружия</category>
+			<category id="1214">Оптические прицелы</category>
+			<category id="1207">Крепления для оптики</category>
+			<category id="1403" parentId="1207">Крепления BSA</category>
+			<category id="1269" parentId="1210">ЛАТЭК Safari</category>
+			<category id="1314" parentId="1213">ASG</category>
+			<category id="1389" parentId="1214">Air Precision</category>
+			<category id="1327" parentId="1266">JSB</category>
+			<category id="1408" parentId="1207">Крепление Leapers</category>
+			<category id="1398" parentId="1214">Оптические прицелы BSA</category>
+			<category id="1339" parentId="1266">Haendler &amp; Natermann </category>
+			<category id="1422" parentId="1214">Оптические прицелы Gamo</category>
+			<category id="1341" parentId="1266">Шершень</category>
+			<category id="1416" parentId="1266">Люман</category>
+			<category id="1423" parentId="1266">Crosman</category>
+			<category id="1257" parentId="1212">Hatsan</category>
+			<category id="1258" parentId="1212">Чайка &quot;Латэк&quot;</category>
+			<category id="1259" parentId="1212">Norica</category>
+			<category id="1260" parentId="1212">ИЖмех Baikal</category>
+			<category id="1273" parentId="1212">kral</category>
+			<category id="1274" parentId="1212">Crosman</category>
+			<category id="1286" parentId="1212">Gamo</category>
+			<category id="1288" parentId="1212">Diana</category>
+			<category id="1299" parentId="1212">Cometa</category>
+			<category id="1307" parentId="1212">Beeman</category>
+			<category id="1424" parentId="1212">Umarex</category>
+			<category id="1429" parentId="1212">Зброя ( Zbroia )</category>
+		</categories>
+
+		<offers>
+			<offer id="1239" available="true">
+				<url>http://zatvor.com.ua/catalog/pnevmaticheskie-vintovki/pnevmaticheskie-vintovki-Hatsan/pnevmaticheskaya-vintovka-HATSAN-125</url>
+				<price>4730</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1257</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pnevmaticheskaya-vintovka-HATSAN-125.jpg</picture>
+				<delivery>true</delivery>
+				<name>Hatsan mod 125</name>
+				<vendor>Hatsan</vendor>
+				<description>Hatsan mod 125 - одна из самых популярных винтовок, а так же одна из самых мощных винтовок переломного типа. Данная винтовка представлена в пластике.
+
+Благодаря своей мощности ( скорость полета легкой пули достигает 380 м/с ) эта винтовка относится к классу &amp;quot;Супер Магнум&amp;quot;
+
+Простая конструкция винтовки Хатсан 125 делает ее надежной и простой в эксплуатации.
+
+Винтовка обладает качественным нарезным стволом , это дает стабильный полет пули что не мало важно для винтовок супер магнум класса.
+
+Источником энергии винтовки Хатсан 125 является Витая пружина , которая взводится путем переламывания ствола.
+
+Винтовка Hatsan 125 хороший выбор для любителей мощности ,а так же для любителей стрельбы на дальнюю дистанцию.
+
+&amp;nbsp;</description>
+			</offer>
+
+			<offer id="1261" available="true">
+				<url>http://zatvor.com.ua/catalog/pnevmaticheskie-vintovki/latek-chaika/pnevmaticheskaya-vintovka-chayka-mod--01</url>
+				<price>2199</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1258</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pnevmaticheskaya-vintovka-chayka-mod--01.jpg</picture>
+				<delivery>true</delivery>
+				<name> Чайка mod. 01</name>
+				<vendor>ЛАТЭК</vendor>
+				<description>Пневматическая винтовка Чайка 01 создавалась коллективом завода &quot;Латэк&quot; с 2009 по 2011 год. В конечном итоге винтовка Чайка 01, на первый взгляд получилась стандартная винтовка с витой пружиной но при этом были учтены недостатки и преимущества аналогичных моделей оружия, в результате чего получилась качественная &quot;переломка&quot; обладающая следующими способностями:
+
+Скорость полета легкой пули достигает - 305 м/с
+Стальная прицельная планка регулируется в двух плоскостях, что повышает долговечность этого узла
+Для комфортного взведения пружины было уменьшено и сбалансировано усилие перелома
+Легкий ,стабильный и надежный спуск ударно спускового механизма
+Вес винтовки Чайка мод 01 составляет всего - 2,7 кг
+</description>
+			</offer>
+
+			<offer id="1270" available="true">
+				<url>http://zatvor.com.ua/catalog/oryjie-pod-patron-flobera/revolver-pod-patron-flobera-safari/safari-431m-buk-3</url>
+				<price>1899</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1269</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/safari-431m-buk-3.jpg</picture>
+				<delivery>true</delivery>
+				<name>Сафари 431м бук 3</name>
+				<vendor>ЛАТЭК</vendor>
+				<description>Safari РФ-431М - револьвер под патрон Флобера (вороненый), оснащен буковой рукоятью и предназначен для развлекательной и спортивной стрельбы. В виде боеприпасов используются 4х миллимитровые патроны Флобера с железным шариком весом в 0,5 грамм.
+
+Стальной УСМ обеспечит настрел не менее 5000 патронов.
+
+Размеры Револьвера
+
+
+	длина &amp;mdash; 178.0+1.0 мм
+	ширина &amp;mdash; 37.0+2.0 мм
+	высота &amp;mdash; 116.0+1.0 мм
+	длина ствола &amp;mdash; 76.0+0.5 м
+</description>
+			</offer>
+
+			<offer id="1289" available="true">
+				<url>http://zatvor.com.ua/catalog/pnevmaticheskie-vintovki/kral-pnevmaticheskie-vintovki/pnevmaticheskaya-vintovka-kral-001</url>
+				<price>2400</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1273</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pnevmaticheskaya-vintovka-kral-001.jpg</picture>
+				<delivery>true</delivery>
+				<name> Kral 001</name>
+				<vendor>Kral</vendor>
+				<description>&amp;nbsp;Kral 001 - классическая пневматическая винтовка выполнена в дереве ( Орех ) и относится к классу &amp;quot;магнум&amp;quot;.&amp;nbsp;Источником&amp;nbsp;энергии винтовки Крал 001 является витая пружина которая взводится путем переламывания ствола.
+
+Винтовка&amp;nbsp;&amp;nbsp;Kral 001 оснащена регулируемой прицельной планкой, а так же имеет мушку с фибероптическими нитями, которая позволяет производить точный выстрел.
+
+Винтовка Крал 001 - это хороший выбор как для любителей так и для профессионалов для стрельбы на дальние дистанции.</description>
+			</offer>
+
+			<offer id="1275" available="true">
+				<url>http://zatvor.com.ua/catalog/pnevmaticheskie-vintovki/pnevmaticheskie-vintovki-crosman/pnevmaticheskaya-vintovka-Crosman-Optimus-CO1K77X</url>
+				<price>2700</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1274</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pnevmaticheskaya-vintovka-Crosman-Optimus-CO1K77X.jpg</picture>
+				<delivery>true</delivery>
+				<name>Crosman Optimus ( CO1K77X ) + оптический прицел</name>
+				<vendor>Crosman</vendor>
+				<description>Crosman Optimus - это классическая, однозарядная винтовка, взвод которой производится переломом ствола.Винтовка является одновременно и элегантной и мощной. Скорость даного оружия легкой пулей достигает - 305 м/с.
+
+Винтовка Кросман Оптимус имеет приятный на вид и качественный на ощупь деревяный приклад Монтэ Карло, и оснащена резиновым затыльником, который компенсирует отдачу и повышает комфрт использования.
+
+Так же винтовка Crosman Optimus оснащена оптическим прицелом CenterPoit 4x32</description>
+			</offer>
+
+			<offer id="1287" available="true">
+				<url>http://zatvor.com.ua/catalog/pnevmaticheskie-vintovki/pnevmaticheskie-vintovki-Gamo/pnevmaticheskaya-vintovka-Gamo-Big-Cat-1000</url>
+				<price>2600</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1286</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pnevmaticheskaya-vintovka-Gamo-Big-Cat-1000.jpg</picture>
+				<delivery>true</delivery>
+				<name> Gamo Big Cat 1000</name>
+				<vendor>Gamo</vendor>
+				<description>&amp;nbsp;Gamo Big Cat 1000 - это простая в использовании и очень надежная пневматическая винтовка от известного европейского производителя. Приклад винтовки&amp;nbsp;изготовлен&amp;nbsp;из высококачественного пластика, на котором установлен резиновый затыльник для уменьшения удачи и увеличения комфорта стрельбы.
+
+&amp;nbsp;Винтовка Gamo Big Cat 1000 отлично подходит для развлекательной и спортивной стрельбы&amp;nbsp;
+
+Источником энергии&amp;nbsp;Big Cat 1000 является витая пружина, которая взводится путем переламывания ствола.
+</description>
+			</offer>
+
+			<offer id="1292" available="true">
+				<url>http://zatvor.com.ua/catalog/pnevmaticheskie-vintovki/pnevmaticheskie-vintovki-Diana/pnevmaticheskaya-vintovka-diana-34-clasic</url>
+				<price>10990</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1288</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pnevmaticheskaya-vintovka-diana-34-clasic.jpg</picture>
+				<delivery>true</delivery>
+				<name>Diana 34 Classic T06</name>
+				<vendor>Diana</vendor>
+				<description>Diana 34 Classic - это классическая пневматическая винтовка переломного типа&amp;nbsp;от немецкой компании Diana RWS. Данная винтовка выполнена в дереве и имеет довольно элегантный вид. Диана 34 оснащена стальным нарезным стволом произведенным из высококачественной стали.
+
+Источником энергии винтовки&amp;nbsp;Diana 34 Classic выступает витая пружина, которая взводится путем переламывания ствола.
+
+Прицельные приспособления винтовки Диана 34 - целик и мушка с фиберооптическими нитями, что позволяет сделать точный выстрел.
+
+Так же на прикладе винтовки&amp;nbsp;Диана 34 установлен резиновый затыльник для погашения отдачи.
+
+Данная винтовка хорошо подойдет как начинающим так и профессиональным стрелкам.</description>
+			</offer>
+
+			<offer id="1300" available="true">
+				<url>http://zatvor.com.ua/catalog/pnevmaticheskie-vintovki/pnevmaticheskie-vintovki-Cometa/pnevmaticheskaya-vintovka-Cometa-400-Fenix</url>
+				<price>7500</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1299</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pnevmaticheskaya-vintovka-Cometa-400-Fenix.jpg</picture>
+				<delivery>true</delivery>
+				<name>Cometa 400 Fenix</name>
+				<vendor>Cometa</vendor>
+				<description>Cometa 400 Fenix - испанская&amp;nbsp;пневматическая винтовка переломного типа. Винтовка выполнена в дереве (Бук) ,нарезной ствол сделан из высококачественной стали. Приклад винтовки оснащен резиновым затыльником для гашения отдачи при выстреле, а рукоять имеет насечки для предназначены для удобства.
+
+Винтовка&amp;nbsp;Cometa 400 Fenix имеет прицельную планку и мушку, но так же есть возможность установки оптического прицела.
+
+Источником энергии винтовки&amp;nbsp;Cometa 400 Fenix является витая пружина, которая взводится путем переламывания ствола.
+
+Винтовка&amp;nbsp;Cometa 400 отличный вариант для стрельбы на дальние дистанции.</description>
+			</offer>
+
+			<offer id="1308" available="true">
+				<url>http://zatvor.com.ua/catalog/pnevmaticheskie-vintovki/pnevmaticheskie-vintovki-beeman/pnevmaticheskaya-vintovka-Beeman-Mach-12-5</url>
+				<price>6400</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1307</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pnevmaticheskaya-vintovka-Beeman-Mach-12-5.jpg</picture>
+				<delivery>true</delivery>
+				<name>Beeman Mach 12.5 + оптический прицел 3x9x40</name>
+				<vendor>Beeman</vendor>
+				<description>Beeman Mach 12.5 - это пневматическая винтовка супер магнум класса, так же она является самой мощной винтовкой из своей линейки. Начальная скорость полета пули данной винтовки достигает 400 м/с.
+
+Пневматическая винтовка&amp;nbsp;Beeman Mach 12.5 выполнена в дереве и имеет нарезной ствол, который выполнен из высококачественной стали, что не мало важно для винтовки супер магнум класса.
+
+Винтовка довольно увесистая.Имеет резиновый затыльник для гашения отдачи,а так же укомплектована оптическим прицелом 3x9x40.
+
+Винтовка Beeman Mach 12.5&amp;nbsp;отлично подойдет для любителей мощности и стрельбы на дальние дистанции.
+</description>
+			</offer>
+
+			<offer id="1368" available="true">
+				<url>http://zatvor.com.ua/catalog/pnevmaticheskie-pistoleti/pnevmaticheskie-pistoleti-asg/pnevmaticheskiy-pistolet-ASG-Dan-Wesson-Silver</url>
+				<price>2500</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1314</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pnevmaticheskiy-pistolet-ASG-Dan-Wesson-Silver.jpg</picture>
+				<delivery>true</delivery>
+				<name> ASG Dan Wesson 2,5 Silver 4</name>
+				<vendor>ASG</vendor>
+				<description>&amp;nbsp;ASG Dan Wesson 2,5 Silver - пневматический револьвер, который имеет свой уникальный серийный номер как и у боевого оружия.
+
+Источником энергии пистолета ASG Dan Wesson 2,5 является Баллон СО 2 со сжатым газом, которого хватает на 50-60 полноценных выстрелов.
+
+Данный пистолет является оригинальной копией револьвера Смита и Вессона в котором сохранили все до мелких деталей без изменений.
+
+Снаряд для данного пистолета - Шарики, которые вставляются в специальный фальш патрон в барабане.
+
+Баллон с газом устанавливается в рукоятке ( для установки нужно сдвинуть пластиковую рукоять назад)</description>
+			</offer>
+
+			<offer id="1328" available="true">
+				<url>http://zatvor.com.ua/catalog/pyli-dlya-pnevmatiki/pyli-dlya-pnevmatiki-jsb/JSB-Diabolo-Exact-Heavy</url>
+				<price>305</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1327</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/JSB-Diabolo-Exact-Heavy.jpg</picture>
+				<delivery>true</delivery>
+				<name>JSB Diabolo Exact Heavy </name>
+				<vendor>JSB</vendor>
+				<description>JSB Diablo Exact Heavy - тяжелы пули для пневматического оружия от Чешской компании JSB.
+
+Данные пули выплавлены из высококачественного мягкого свинца, который хорошо нарезается в стволе. Благодаря хорошему распределению центра тяжести пули&amp;nbsp;Exact Heavy показывают высокую точность и кучность.
+
+Благодаря своему весу ( 0,67 гр) данные пули хорошо ведут себя даже в ветреную погоду и хорошо подойдут для винтовок Магнум класса.
+
+Пули&amp;nbsp;Diablo Exact Heavy отлично подойдут для стрельбы на дальние дистанции и для охоты на мелкую дичь.</description>
+			</offer>
+
+			<offer id="1340" available="true">
+				<url>http://zatvor.com.ua/catalog/pyli-dlya-pnevmatiki/pyli-dlya-pnevmatiki-Haendler-and-Natermann/pyli-dlya-pnevmatiki-Diabolo-Baracuda</url>
+				<price>312</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1339</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pyli-dlya-pnevmatiki-Diabolo-Baracuda.jpg</picture>
+				<delivery>true</delivery>
+				<name>H&amp;N Diabolo Baracuda</name>
+				<vendor>Haendler &amp; Natermann </vendor>
+				<description>Diabolo Baracuda - тяжелые пули для пневматики от немецкого производителя H&amp;amp;N. (Германия)
+
+Данные пули изготовлены&amp;nbsp;из твердого, высококачественного свинца и имеют хорошие баллистические показатели и проникающие способности. Благодаря особой форме головки, пули летят стабильно и настильно.
+
+Пули&amp;nbsp;Барракуда имеют четко равный вес и хорошо нарезаются в стволе, благодаря чему вы можете сделать точный выстрел на дальнюю дистанцию.
+
+Пули&amp;nbsp;пневматические h n baracuda - отличный выбор для охоты на малую дичь, а так же подойдут для стрельбы на дальние дистанции.
+
+Пневмо пули барракуда купить можно позвонив нам по телефону или сделав заказ онлайн.</description>
+			</offer>
+
+			<offer id="1390" available="true">
+				<url>http://zatvor.com.ua/catalog/priceli-dlya-pnevmatiki/opticheskie-pritselu-air-precision/opticheskie-pritselu-air-precision-4-32</url>
+				<price>1590</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1389</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/opticheskie-pritselu-air-precision-4-32.jpg</picture>
+				<delivery>true</delivery>
+				<name>Air Precision 4x32 Air rifle scope</name>
+				<vendor>Air Precision</vendor>
+				<description>Оптический прицел Air Precision 4x32&amp;nbsp;является ультрапрочным и отлично подойдет как и для любительской стрельбы так и для охоты.
+
+Данный прицел хорошо показал себя при стрельбе из мощных пружинно-поршневых&amp;nbsp;винтовок.
+
+Основное преимущество прицела&amp;nbsp;Air Precision 4x32 - это сетка Mil-Dot благодаря которому стрелок может скорректировать траекторию полета не внося поправки в оптику.
+
+&amp;nbsp;</description>
+			</offer>
+
+			<offer id="1399" available="true">
+				<url>http://zatvor.com.ua/catalog/priceli-dlya-pnevmatiki/opticheskie-pritselu-bsa/opticheskiy-pritsel-air-BSA-FM-3-5-10x50-IR</url>
+				<price>5100</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1398</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/opticheskiy-pritsel-air-BSA-FM-3-5-10x50-IR.jpg</picture>
+				<delivery>true</delivery>
+				<name>BSA FM 3.5-10х50 IR</name>
+				<vendor>BSA Optics</vendor>
+				<description>BSA FM 3.5-10х50 IR - оптический прицел, который разрабатывался специально для американского рынка и соответствует всем потребительским стандартам.
+
+Данная оптика имеет переменную кратность 3.5-10 и переднюю линзу в 50 мм. Благодаря данным характеристикам, прицел хорошо подойдет для стрельбы на средние и дальние дистанции.
+
+Прицел противоударный и водонепроницаемый, а корпус его заполнен азотом, а так же Оптический прицел&amp;nbsp;BSA FM 3.5-10х50 IR имеет подсветку прицельной марки в 3х цветах.
+</description>
+			</offer>
+
+			<offer id="1404" available="true">
+				<url>http://zatvor.com.ua/catalog/kreplenie-dlya-opticheskogo-pritsela/kreplenie-dlya-optiki-bsa/kreplenie-monoblok-BSA-601--1---9-3-mm-13-mm</url>
+				<price>765</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1403</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/kreplenie-monoblok-BSA-601--1---9-3-mm-13-mm.jpg</picture>
+				<delivery>true</delivery>
+				<name>Крепление-моноблок BSA 601, 1&quot; , 9.3 мм-13 мм</name>
+				<vendor>BSA Optics</vendor>
+				<description>Крепление-моноблок BSA 601, 1&amp;quot; , (Ласточкин Хвост) 9.3 мм-13 мм.&amp;nbsp;
+
+Качественный моноблок на 4х винтах. Подойдет для пневматики с сильной отдачей.</description>
+			</offer>
+
+			<offer id="1409" available="true">
+				<url>http://zatvor.com.ua/catalog/kreplenie-dlya-opticheskogo-pritsela/kreplenie-dlya-optiki-leapers/kreplenie-dlya-optiki-Leapers-UTG-kolca-1</url>
+				<price>749</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1408</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/kreplenie-dlya-optiki-Leapers-UTG-kolca-1.jpg</picture>
+				<delivery>true</delivery>
+				<name>Крепление для оптики Leapers UTG кольца 1&quot;, высокие, пара</name>
+				<vendor>UTG Leapers</vendor>
+				<description>Легкие и компактные кольца и Leapers UTG кольца 1&amp;quot;&amp;nbsp;, которые оснащены быстросьемной системой. Внутренняя сторона колец обработана синтетическим&amp;nbsp;спец.покрытием, которое надежно зафиксирует и убережет вашу оптику, а так же не даст сдвинутся с места.
+
+Кольца оснащены специальными отверстиями что позволит стрелку целится под оптикой с помощью мушки!</description>
+			</offer>
+
+			<offer id="1427" available="true">
+				<url>http://zatvor.com.ua/catalog/pyli-dlya-pnevmatiki/pyli-dlya-pnevmatiki-Crosman/pulki-Crosman-Field-Target--k-177-4-5mm-0-68gr-1250sht-</url>
+				<price>695</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1423</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pulki-Crosman-Field-Target--k-177-4-5mm-0-68gr-1250sht-.jpg</picture>
+				<delivery>true</delivery>
+				<name>Пульки Crosman Field Target (4,5мм),0.68гр,1250шт.</name>
+				<vendor>Crosman</vendor>
+				<description>Свинцовые пули хорошего качества Crosman Field Target являются довольно универсальными и хорошо подойдут как новичкам так и профессионалов. Большая упаковка в 1250 шт, пуль 4.5мм кал, позволят Вам хорошо сэкономить и не задаваться вопросом о покупке пуль долгое время.&amp;nbsp;
+
+Пули Crosman Field Target 1250шт, выплавлены из светлого качественного свинца, а так же показывают хорошую точность и настильность.</description>
+			</offer>
+
+			<offer id="1425" available="true">
+				<url>http://zatvor.com.ua/catalog/pnevmaticheskie-vintovki/pnevmaticheskie-vintovki-Umarex/pnevmaticheskaya-vintovka-Hammerli-Hunter-Force-900-Combo</url>
+				<price>3950</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1424</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pnevmaticheskaya-vintovka-Hammerli-Hunter-Force-900-Combo.jpg</picture>
+				<delivery>true</delivery>
+				<name>Hammerli Hunter Force 900 Combo</name>
+				<vendor>Umarex</vendor>
+				<description>Пневматическая винтовка Hammerli hunter force 900 - отличный пример немецкого оружейного качества, имеет прекрасный дизайн, а так же отличные показатели мощности и точности. Винтовка Хаммерли 900 удерживает свою популярность еще с 2008-го года благодаря качеству сборки и эргономики.
+
+Ложе и винтовки выполнено из качественного дерева ( бук ) в двух оттенках, благодаря чему винтовка выглядит благородно и стильно, а так же имеет насечку, которая препятствует скольжению винтовки в руке и повышает удобство эксплуатации.
+
+Винтовка весит 3,7 кг, что позволяет точно держать цель на мушке, а благодаря хорошему распределению веса, хорошо стабилизирована и устойчива.
+
+Винтовка hammerli hunter force 900 имеет удобный приклад в форме &amp;quot;Монте Карло&amp;quot; благодаря которому целиться гораздо удобней, а так же оснащен резиновым затыльником который успешно гасит отдачу выстрела.
+
+Особенностью винтовки Хамерли 900 является ее фиксированный ствол. Более жесткая конструкция винтовки позволяет вести точную прицельную стрельбу.&amp;nbsp; Источником энергии в данном оружии выступает витая пружина, которая взводится путем переламывания подствольного рычага.
+
+Так же hammerli hunter force 900 укомплектована надежным оптическим прицелом Hammerli 6x42 , который является аналогом Walter 6x42 но не уступает по качеству и позволяет вести прицельную стрельбу на дальние дистанции. И как альтернатива имеются открытые прицельные приспособления в виде регулируемого целика и мушки с фибероптическими нитями.
+
+Винтовка Хаммерли 900 довольно универсальна и надежна, и подойдет как новичку так и профессионалу. Качественно собранная, точная и надежная. Немецкое качество говорит само за себя!</description>
+			</offer>
+
+			<offer id="1241" available="true">
+				<url>http://zatvor.com.ua/catalog/pnevmaticheskie-vintovki/pnevmaticheskie-vintovki-Hatsan/HATSAN-135</url>
+				<price>5750</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1257</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/HATSAN-135.jpg</picture>
+				<delivery>true</delivery>
+				<name>Hatsan mod 135</name>
+				<vendor>Hatsan</vendor>
+				<description>Hatsan mod 135 - это пневматическая винтовка магнум класса от известного турецкого производителя Хатсан.
+
+Данная винтовка имеет качественный нарезной ствол, а приклад исполнен из дерева ( турецкий орех )
+
+Благодаря большой мощности винтовка Хатсан 135 попадает под класс &amp;quot;супер магнум&amp;quot; и отлично подойдет для стрельбы на большую дистанцию.
+
+Винтовка Хатсан 135 удобно лежит в руках, а благодаря резиновому затыльнику отдача существенно уменьшается, что делает стрельбу особо комфортной.
+
+Источником энергии винтовки&amp;nbsp;Hatsan 135 является Витая пружина, которая взводится путем переламывания ствола.</description>
+			</offer>
+
+			<offer id="1262" available="true">
+				<url>http://zatvor.com.ua/catalog/pnevmaticheskie-vintovki/latek-chaika/pnevmaticheskaya-vintovka-chayka-mod--11</url>
+				<price>2499</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1258</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pnevmaticheskaya-vintovka-chayka-mod--11.jpg</picture>
+				<delivery>true</delivery>
+				<name>Чайка mod. 11</name>
+				<vendor>ЛАТЭК</vendor>
+				<description>Установленная газовая пружина в винтовке позволила избавиться от не приятной вибрации, существенно увеличила ресурс пружины и всей винтовки в целом. Винтовка Чайка mod 11 взводится равномерно и плавно и при этом ничего не скрипит и не трет , так как газовая пружина закреплена в цилиндре.Главный плюс газовой пружины в том, что винтовку можно хранить в любом положении и даже при длительном хранении в сжатом положении падения давления не будет в отличии от витой пружины.
+После установки газовой пружины скорость полета пули значительно возросла, теперь для легкой пули 0,28гр она составила - 330 м/с, а тяжелой 0,68гр - 260 м/с.
+&amp;nbsp;
+
+</description>
+			</offer>
+
+			<offer id="1418" available="true">
+				<url>http://zatvor.com.ua/catalog/oryjie-pod-patron-flobera/revolver-pod-patron-flobera-safari/safari-441m-buk-4</url>
+				<price>1990</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1269</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/safari-441m-buk-4.jpg</picture>
+				<delivery>true</delivery>
+				<name>Сафари 441м бук 4''</name>
+				<vendor>ЛАТЭК</vendor>
+				<description>Револьвер Флобера Сафари 441м бук 4&amp;#39;&amp;#39; &amp;nbsp;популярен за счет своей не высокой цены и отменному качеству. Данный револьвер отличается от своего родственника РФ 441 тем, что сделан исключительно из украинских материалов, благодаря чему и позволяет значительно снизить цену и при этом остаться на высоком уровне качества!
+
+Сафари 441 м имеет стальной барабан на 9 патронов, а так же стальной УСМ и нарезной ствол, а рама из легкого сплава.
+
+Так же револьвер имеет прицельную планку, которая регулируется по вертикали и по горизонтали.
+
+Револьвер Сафари рф 441 м купить не составит проблемы, так как данное оружие не является боевым и не требует никакого разрешение&amp;nbsp; на ношение или стрельбу.</description>
+			</offer>
+
+			<offer id="1290" available="true">
+				<url>http://zatvor.com.ua/catalog/pnevmaticheskie-vintovki/kral-pnevmaticheskie-vintovki/pnevmaticheskaya-vintovka-kral-005</url>
+				<price>4300</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1273</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pnevmaticheskaya-vintovka-kral-005.jpg</picture>
+				<delivery>true</delivery>
+				<name> Kral 005 Syntetic Magnum 380 м/c</name>
+				<vendor>Kral</vendor>
+				<description>kral 005 syntetic - это новая турецкая&amp;nbsp;пневматическая винтовка магнум класса. Приклад данной винтовки выполнен&amp;nbsp;и качественного, твердого пластика, а ствол сделан из высококачественного сырья, что не мало важно для винтовок класса &amp;quot;магнум&amp;quot;
+
+Винтовка Крал 005 оснащена удобным&amp;nbsp;и эргономичным&amp;nbsp;прикладом и имеет щеку Монте-Карло, а так же на прикладе установлен резиновый затыльник, который гасит отдачу винтовки и повышает комфорт при стрельбе.
+
+Так же винтовка&amp;nbspkral 005 syntetic имеет прицельную планку и мушку оснащенную фибероптическими нитями.
+
+Винтовка Крал 005 - это лучший вариант для любителей мощной пневматики, а так же для стрельбы на экстримальные дистанции.</description>
+			</offer>
+
+			<offer id="1276" available="true">
+				<url>http://zatvor.com.ua/catalog/pnevmaticheskie-vintovki/pnevmaticheskie-vintovki-crosman/pnevmaticheskaya-vintovka-Crosman-Benjamin-Trail-NP-XL-1500</url>
+				<price>7920</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1274</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pnevmaticheskaya-vintovka-Crosman-Benjamin-Trail-NP-XL-1500.jpg</picture>
+				<delivery>true</delivery>
+				<name>Crosman Benjamin Trail NP XL 1500 + оптическикй прицел</name>
+				<vendor>Crosman</vendor>
+				<description>Главное достоинство пневматической винтовки&amp;nbsp;Crosman&amp;nbsp; Benjamin Trail NP XL 1500 в ее мощности, источником энергии которой является - газовая пружина построена на запатентованной системе Nitro Piston&amp;nbsp;от производителя.
+
+Скорость полета пули винтовки Benjamin Trail NP XL 1500&amp;nbsp;пули достигает 380 м/с
+
+Также данная модель оснащена надежным оптическим прицелом CenterPoint 4x32 и креплением к нему
+</description>
+			</offer>
+
+			<offer id="1375" available="true">
+				<url>http://zatvor.com.ua/catalog/pnevmaticheskie-vintovki/pnevmaticheskie-vintovki-Gamo/pnevmaticheskaya-vintovka-Gamo-MaximaRX</url>
+				<price>6000</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1286</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pnevmaticheskaya-vintovka-Gamo-MaximaRX.jpg</picture>
+				<delivery>true</delivery>
+				<name>Gamo Maxima RX кал.4,5</name>
+				<vendor>Gamo</vendor>
+				<description>Gamo Maxima RX - это испанская пружинно-поршневая винтовка, выполнена из качественного дерева и имеет надежный стальной ствол, который произведен из высококачественной стали.
+
+Винтовка&amp;nbsp;Maxima RX имеет довольно изящный вид, но при этом она является мощной пневматикой.
+
+Данная винтовка имеет источник энергии в виде витой пружины, которая взводится методом переламывания ствола.
+
+Винтовка&amp;nbsp;Maxima RX оснащена резиновым затыльником который служит для уменьшения отдачи, а приклад имеет регулируемую по высоте щеку, благодаря которой стрелять из винтовки гораздо удобнее.
+
+Винтовка&amp;nbsp;Gamo Maxima RX является однозарядной и отлично подойдет как новичку, так и профеcсионалу.</description>
+			</offer>
+
+			<offer id="1306" available="true">
+				<url>http://zatvor.com.ua/catalog/pnevmaticheskie-vintovki/pnevmaticheskie-vintovki-Diana/pnevmaticheskaya-Diana-P-1000</url>
+				<price>32500</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1288</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pnevmaticheskaya-Diana-P-1000.jpg</picture>
+				<delivery>true</delivery>
+				<name>Diana P 1000</name>
+				<vendor>Diana</vendor>
+				<description>Diana P 1000 - это первая винтовка ПЦП известной немецкой компании Diana. Данная винтовка имеет довольно высокие характеристики. Скорость пули достигает 350 м/с ,а благодаря большому подствольному резервуару винтовка&amp;nbsp;может произвести до 70&amp;nbsp;выстрелов с одной накачки.
+
+Выстрел с винтовки Diana P 1000&amp;nbsp;довольно мягкий благодаря высокочувствительному, регулируемому спусковому крючку.
+
+В комплект к винтовке Диана 1000 входит 14-ти зарядный магазин, а так же адаптер для стрельбы одиночными выстрелами.
+
+Ложе в винтовке сделано в охотничьем стиле и состоит из двух частей, приклада и цевье.
+
+Винтовка&amp;nbsp;Diana P 1000 не оснащена прицельными приспособлениями, прицеливание можно осуществлять с помощью оптического прицела, который можно установить на 11 миллиметровую планку &amp;quot;Ласточкин хвост&amp;quot;.
+
+Данная винтовка отлично подойдет для спортивной стрельбы на дальние дистанции и для охоты на мелкую дичь.
+
+&amp;nbsp;</description>
+			</offer>
+
+			<offer id="1301" available="true">
+				<url>http://zatvor.com.ua/catalog/pnevmaticheskie-vintovki/pnevmaticheskie-vintovki-Cometa/pnevmaticheskaya-vintovka-Cometa-220</url>
+				<price>4250</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1299</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pnevmaticheskaya-vintovka-Cometa-220.jpg</picture>
+				<delivery>true</delivery>
+				<name>Cometa 220</name>
+				<vendor>Cometa</vendor>
+				<description>Cometa 220 - пневматическая винтовка испанского производителя Комета. Данная винтовка имеет деревянный приклад и нарезной ствол, сделанный из высококачественной стали.
+
+Винтовка&amp;nbsp;Cometa 220 оснащена прицельной планкой и мушкой.
+
+Источником энергии в данной винтовке выступает витая пружина, которая взводится с помощью переламывания ствола.
+
+Cometa 220 - отличный вариант для начинающих стрелков и для стрельбы на короткие и средние дистанции.</description>
+			</offer>
+
+			<offer id="1309" available="true">
+				<url>http://zatvor.com.ua/catalog/pnevmaticheskie-vintovki/pnevmaticheskie-vintovki-beeman/pnevmaticheskaya-vintovka-Beeman-Teton</url>
+				<price>3450</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1307</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pnevmaticheskaya-vintovka-Beeman-Teton.jpg</picture>
+				<delivery>true</delivery>
+				<name>Beeman Teton</name>
+				<vendor>Beeman</vendor>
+				<description>Beeman Teton - пружинно-поршневая пневматическая винтовка класса &amp;quot;магнум&amp;quot; имеет классический стиль, выполнена в дереве, а так же имеет нарезной ствол который сделан из высококачественной стали.
+
+Винтовка&amp;nbsp;Beeman Teton относится к винтовкам магнум класса и имеет начальную скорость полета пули 330 м/с.
+
+Приклад оснащен резиновым затыльником, цель которого гасить отдачу.
+
+Винтовка оснащена прицельной планкой и мушкой, а так же предусмотрено крепление для оптического прицела.
+
+Винтовка&amp;nbsp;Beeman Teton отлично подойдет для стрельбы на дальние дистанции, а так же для развлекательной стрельбы.</description>
+			</offer>
+
+			<offer id="1369" available="true">
+				<url>http://zatvor.com.ua/catalog/pnevmaticheskie-pistoleti/pnevmaticheskie-pistoleti-asg/pnevmaticheskiy-pistolet-asg-stiduty-one</url>
+				<price>2050</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1314</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pnevmaticheskiy-pistolet-asg-stiduty-one.jpg</picture>
+				<delivery>true</delivery>
+				<name>ASG STI Duty One </name>
+				<vendor>ASG</vendor>
+				<description>ASG STI Duty One - это полная копия американского пистолета STI International.Компания&amp;nbsp;ASG сохранила все до мельчайших деталей в данном пистолете, в плоть до задержки затвора.
+
+Пистолет имеет 20-ти зарядный магазин, который извлекается с помощью кнопочного механизма,а баллон CO 2 устанавливается в задней части рукояти в специальную камеру.
+
+Пистолет ASG STI Duty One не оснащен системой Blowback
+
+&amp;nbsp;</description>
+			</offer>
+
+			<offer id="1329" available="true">
+				<url>http://zatvor.com.ua/catalog/pyli-dlya-pnevmatiki/pyli-dlya-pnevmatiki-jsb/pyli-dlya-pnevmatiki-JSB-Match-Premium-MW</url>
+				<price>358</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1327</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pyli-dlya-pnevmatiki-JSB-Match-Premium-MW.jpg</picture>
+				<delivery>true</delivery>
+				<name>JSB Match Premium MW</name>
+				<vendor>JSB</vendor>
+				<description>Match Premium MW&amp;nbsp; - матчевые пули премиум класса от известного чешского производителя JSB. Данные пули предназначены для спортивной стрельбы по бумажным мишеням на расстоянии 10-15 метров.
+
+Благодаря плоской головке пули&amp;nbsp;JSB Match Premium MW&amp;nbsp; оставляют четкий ровный круг на месте попадание, что очень удобно при подсчете очков.
+
+Благодаря ровному распределению центра тяжести и особой форме головки пули&amp;nbsp;JSB Match Premium MW&amp;nbsp; имеет хорошую настильность и показывают высокую кучность.
+
+Данные пули отбираются в ручную и рассортированы в коробке одна за одной.
+
+&amp;nbsp;</description>
+			</offer>
+
+			<offer id="1342" available="true">
+				<url>http://zatvor.com.ua/catalog/pyli-dlya-pnevmatiki/pyli-dlya-pnevmatiki-Haendler-and-Natermann/pyli-dlya-pnevmatiki-Diabolo-Baracuda-Match</url>
+				<price>355</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1339</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pyli-dlya-pnevmatiki-Diabolo-Baracuda-Match.jpg</picture>
+				<delivery>true</delivery>
+				<name> Diabolo Baracuda Match</name>
+				<vendor>Haendler &amp; Natermann </vendor>
+				<description>&amp;nbsp;Diabolo Baracuda Match - тяжелые пули для пневматики (0,69 гр)&amp;nbsp;от немецкой компании H&amp;amp;N отличаются высоким качеством изготовления и&amp;nbsp;хорошим распределением веса пули. Пули Барракуда Матч имеют высокие баллистические показатели и хорошее останавливающее действие.
+
+Пули&amp;nbsp;Baracuda Match - отличный выбор для охоты на мелкую дичь, отстрел вредителей, а так же для любительской стрельбы на дальние дистанции.</description>
+			</offer>
+
+			<offer id="1391" available="true">
+				<url>http://zatvor.com.ua/catalog/priceli-dlya-pnevmatiki/opticheskie-pritselu-air-precision/opticheskiy-pritsel-air-precision-2-7x32</url>
+				<price>1650</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1389</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/opticheskiy-pritsel-air-precision-2-7x32.jpg</picture>
+				<delivery>true</delivery>
+				<name>Air Precision 2-7x32 Air rifle scope</name>
+				<vendor>Air Precision</vendor>
+				<description>Air Precision 2-7x32 - это ультрапрочный и надежный оптический прицел с регулируемой кратностью 2 - 7x.
+
+Данный прицел устойчив к отдаче и является универсальным, благодаря чему хорошо подойдет как для спортивной стрельбы на дальние дистанции так и для охоты.
+
+Оптический прицел&amp;nbsp;Air Precision 2-7x32 оснащен сеткой Мил Дот, благодаря чему можно быстро скорректировать выстрел не внося изменения в оптику.
+
+&amp;nbsp;</description>
+			</offer>
+
+			<offer id="1400" available="true">
+				<url>http://zatvor.com.ua/catalog/priceli-dlya-pnevmatiki/opticheskie-pritselu-bsa/opticheskiy-pritsel-bsa-sport-4x32-duplex</url>
+				<price>990</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1398</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/opticheskiy-pritsel-bsa-sport-4x32-duplex.jpg</picture>
+				<delivery>true</delivery>
+				<name>BSA Sport 4х32 WR, Duplex, крепление 11 мм</name>
+				<vendor>BSA Optics</vendor>
+				<description>Оптический прицел&amp;nbsp;BSA Sport 4х32 WR хорошо подойдет для маломощных винтовок с небольшой отдачей и для стрельбы на средние дистанции.
+
+Данный прицел имеет фиксированую крутность 4x и переднюю линзу в 32 мм, а так же прицел&amp;nbsp;имеет приельную марку Duplex.
+
+В комплект к прицелу&amp;nbsp;BSA Sport 4х32 WR идет крепление 11мм из 2х колец.
+</description>
+			</offer>
+
+			<offer id="1405" available="true">
+				<url>http://zatvor.com.ua/catalog/kreplenie-dlya-opticheskogo-pritsela/kreplenie-dlya-optiki-bsa/kreplenie-monoblok-BSA-VBDHWMR</url>
+				<price>420</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1403</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/kreplenie-monoblok-BSA-VBDHWMR.jpg</picture>
+				<delivery>true</delivery>
+				<name>Крепление-моноблок BSA VBDHWMR , 30 мм, weaver, среднее</name>
+				<vendor>BSA Optics</vendor>
+				<description>Моноблок-крепление&amp;nbsp;&amp;nbsp;BSA VBDHWMR имеют среднюю высоту, крепятся на планку Вивера и фиксируются тремя болтами под шестигранник.</description>
+			</offer>
+
+			<offer id="1410" available="true">
+				<url>http://zatvor.com.ua/catalog/kreplenie-dlya-opticheskogo-pritsela/kreplenie-dlya-optiki-leapers/kreplenie-dlya-optiki-Leapers-Accushot-mono</url>
+				<price>615</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1408</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/kreplenie-dlya-optiki-Leapers-Accushot-mono.jpg</picture>
+				<delivery>true</delivery>
+				<name>Крепление для оптики Leapers Accushot МОНО, 1&quot;, высокое</name>
+				<vendor>UTG Leapers</vendor>
+				<description>Моноблочное крепление&amp;nbsp;Leapers Accushot МОНО предназначено для использования на пневматических и малокалиберных винтовках. Устанавливается на планку 11 мм &amp;quot;Ласточкин Хвост&amp;quot; и фиксируется тремя болтами под шестигранник.</description>
+			</offer>
+
+			<offer id="1428" available="true">
+				<url>http://zatvor.com.ua/catalog/pyli-dlya-pnevmatiki/pyli-dlya-pnevmatiki-Crosman/pulki-CrosmanLegacy-Hollow-Point-kal-177--500sht-</url>
+				<price>259</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1423</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pulki-CrosmanLegacy-Hollow-Point-kal-177--500sht-.jpg</picture>
+				<delivery>true</delivery>
+				<name>Пульки Crosman Premier Hollow Point кал.4,5мм  500шт.</name>
+				<vendor>Crosman</vendor>
+				<description>Экспансивные пули для пневматики Crosman Legacy Hollow Point отлично подойдут для охоты на мелкую дичь, а так же для целевой стрельбы. Пуля имеет углубление в центре головки, и при попадании в цель раскрывается, благодаря чему цели наносится максимальное шоковое воздействие.
+
+Обязаны напомнить, что в Украине охота с пневматическим оружием Запрещена.</description>
+			</offer>
+
+			<offer id="1426" available="true">
+				<url>http://zatvor.com.ua/catalog/pnevmaticheskie-vintovki/pnevmaticheskie-vintovki-Umarex/pnevmaticheskaya-vintovka-Hammerli-Hunter-Force-1000-Combo</url>
+				<price>4520</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1424</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pnevmaticheskaya-vintovka-Hammerli-Hunter-Force-1000-Combo.jpg</picture>
+				<delivery>true</delivery>
+				<name>Hammerli Hunter Force 1000 Combo</name>
+				<vendor>Umarex</vendor>
+				<description>Пневматическая винтовка Hammerli hunter force 1000 combo - является достойным примером немецкого качества. Воздушка имеет огромный ряд преимуществ, благодаря чему удерживает свою популярность уже не один год. Винтовка Хаммерли 1000 имеет изящный и внушающий вид, хорошую эргономику и качественную сборку.
+
+Основные преимущества воздушки:
+
+- Красивый и элегантный приклад
+
+- Удобное и эргономичное ложе
+
+- Высокая мощность оружия
+
+- Предохранитель
+
+- Винтовка укомплектована оптикой Hammerli 6x42
+
+Ложе и приклад выполнены из дерева (бук) высокого качества с твердых пород и покрыто лаком. Так же имеются насечки на рукоятке и цевье для более надежного удержания винтовки в руках. Приклад имеет форму &amp;quot;Монте Карло&amp;quot; что значительно повышает удобство прицеливания, а так же установлен резиновый затыльник, который хорошо поглощает отдачу от выстрела, что не мало важно для винтовок с большой мощностью.
+
+От случайного выстрела обезопасит автоматический предохранитель спускового крючка, который блокирует курок каждый раз после перелома ствола. Пневматическая винтовка Hammerli hunter force 1000 combo имеет мягкий и регулируемый спусковой механизм, который Вы можете подстроить под себя.
+
+Ствол и все механизмы винтовки Hammerli 1000 выполнены из качественной оружейной стали. Все детали воздушки хорошо подогнаны, благодаря чему винтовка не только мощная но и точная. Источником энергии винтовки Хаммерли 1000 выступает витая пружина, которая взводится путем переламывания ствола. Скорость полета легкой пули 305 м/с. Так же есть возможность установки Газовой пружины, что значительно увеличит ее мощность и повысит комфорт стрельбы.
+
+Воздушка Hammerli hunter force 1000 combo укомплектована оптическим прицелом Hammerli 6x42, который ничем не уступает по качеству своему аналогу Walter 6x42, а так же кольцами для установки оптики на винтовку.
+
+Подведем итоги:
+
+Винтовка имеет очень высокую популярность как среди новичков так и профессионалов, так как является довольно универсальной, качественно собранной. Не нужно задумываться об выборе оптики и крепления, так как это все сделали для Вас специалисты.&amp;nbsp; Воздушка Hammerli 1000 является старшим братом 900й модели, которая отличается взводом пружины и мощностью. После установки ГП на данную воздушку было зафиксировано начальную скорость полета пули в 290 м/с пулей весом 0,69 грам. , что является около 29 Дж энергии.</description>
+			</offer>
+
+			<offer id="1242" available="true">
+				<url>http://zatvor.com.ua/catalog/pnevmaticheskie-vintovki/pnevmaticheskie-vintovki-Hatsan/pnevmaticheskaya-vintovka-HATSAN-150-torpedo</url>
+				<price>6700</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1257</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pnevmaticheskaya-vintovka-HATSAN-150-torpedo.jpg</picture>
+				<delivery>true</delivery>
+				<name>Hatsan 150 Torpedo</name>
+				<vendor>Hatsan</vendor>
+				<description>Hatsan 150 Torpedo - это одна из самых мощных пружинно-поршневых винтовок известного турецкого производителя Хатсан. Источником энергии винтовки Хатсан 150 является витая пружина.&amp;nbsp;
+
+Преимущество винтовки Hastsan 150 в ее неподвижном стволе, а пружина&amp;nbsp;взводится подствольным рычагом.
+
+Не смотре на огромную мощность, отдача умеренно небольшая, так как на прикладе установлен резиновый затыльник смягчающий отдачу.
+
+Благодаря мощности и не подвижному стволу&amp;nbsp;винтовка Хатсан 150 может точно стрелять на дальние дистанции тяжелыми пулями.
+
+Пневматическая винтовка&amp;nbsp;Hatsan 150 Torpedo отлично подойдет для спортивной стрельбы на дальние дистанции и для развлекательной стрельбы по мишеням</description>
+			</offer>
+
+			<offer id="1263" available="true">
+				<url>http://zatvor.com.ua/catalog/pnevmaticheskie-vintovki/latek-chaika/pnevmaticheskaya-vintovka-chayka-mod-12</url>
+				<price>2549</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1258</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pnevmaticheskaya-vintovka-chayka-mod-12.jpg</picture>
+				<delivery>true</delivery>
+				<name>Чайка mod. 12</name>
+				<vendor>ЛАТЭК</vendor>
+				<description>Представляем вашему вниманию новую пневматическую винтовку от завода &amp;quot;ЛАТЭК&amp;quot; Чайка 12. Винтовка оснащена газовой пружиной и удобным ортопедическим прикладом со спортивной рукоятью.
+
+Характерной особенностью пневматической винтовки Чайка мод 12 является её граненый ствол, который отличается надежностью и износостойкостью.
+
+После установки Газовой пружины на винтовку Чайка мод 12 был зафиксирован прирост энергии полета пули и ее скорость.
+
+Скорость полета легкой пули в 0,28 г&amp;nbsp;соcтавляет - 330 м/с , а тяжелой в 0,68 г - 260 м/с
+&amp;nbsp;
+
+</description>
+			</offer>
+
+			<offer id="1419" available="true">
+				<url>http://zatvor.com.ua/catalog/oryjie-pod-patron-flobera/revolver-pod-patron-flobera-safari/safari-461m-buk-6</url>
+				<price>2050</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1269</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/safari-461m-buk-6.jpg</picture>
+				<delivery>true</delivery>
+				<name>Сафари 461м бук 6''</name>
+				<vendor>ЛАТЭК</vendor>
+				<description>Револьвер под патрон флобера сафари рф 461м Бук 6 разработан для развлекательной &amp;nbsp;и спортивной стрельбы 4х миллимитровыми патронами кольцевого воспламенения.
+
+Данный револьвер полностью изготовлен из Украинских запчастей, что дает возможность предложить покупателю самую достойную цену и при этом качество остается на высоте.
+
+Револьвер Сафари рф 461м имеет самый длинный ствол по сравнению со своими младшими братьями (431м и 441 м) , что позволяет стрелять более кучно и имеет большую мощность.
+
+Ударно-спусковой механизм выполнен из качественной стали, а так же имеет стальной нарезной ствол.
+
+Вместимость барабана: 9 патроннов, а так же оснащен экстрактором, благодаря которому удобнее извлекать гильзы из барабана.</description>
+			</offer>
+
+			<offer id="1291" available="true">
+				<url>http://zatvor.com.ua/catalog/pnevmaticheskie-vintovki/kral-pnevmaticheskie-vintovki/pnevmaticheskaya-vintovka-kral-004-tactical</url>
+				<price>2580</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1273</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pnevmaticheskaya-vintovka-kral-004-tactical.jpg</picture>
+				<delivery>true</delivery>
+				<name> Kral 004 Syntetic Tactical 310 м/с</name>
+				<vendor>Kral</vendor>
+				<description>&amp;nbsp;Kral 004 Syntetic Tactical - пневматическая винтовка класса &amp;quot;Магнум&amp;quot;. Винтовка выполнена в пластике, имеет удобный приклад и пистолетную&amp;nbsp;рукоять&amp;nbsp;, который сделан с качественного, твердого пластика и оснащена стальным нарезным стволом, выполненным из высококачественного сырья, что крайне важно для мощной пневматической винтовки.
+
+Прицельные приспособления винтовки Крал 004 - регулируемый целик и мушка. Так же есть крепление &amp;quot;Ласточкин хвост&amp;quot; для установки оптического прицела.
+
+Винтовка&amp;nbsp;&amp;nbsp;Kral 004 Syntetic хорошо подойдет как для развлекательной стрельбы, так и для спортивной стрельбы на средние и дальние дистанции.
+
+&amp;nbsp;
+</description>
+			</offer>
+
+			<offer id="1277" available="true">
+				<url>http://zatvor.com.ua/catalog/pnevmaticheskie-vintovki/pnevmaticheskie-vintovki-crosman/pnevmaticheskaya-vintovka-Crosman-Fury-NP</url>
+				<price>4300</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1274</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pnevmaticheskaya-vintovka-Crosman-Fury-NP.jpg</picture>
+				<delivery>true</delivery>
+				<name>Crosman Fury NP + оптический прицел</name>
+				<vendor>Crosman</vendor>
+				<description>Пневматическая винтовка Crosman Fury NP имеет лучшие характеристики за относительно небольшую цену.Главной особенностью этой винтовки является ее газовая пружина заполненная азотом которая работает по технологии Nitro Piston и запатентована компанией Кросман.
+
+Благодаря газовой пружине винтовка Crosman Fury NP может долгое время находится во взведенном состоянии и при этом не терять своих свойств.
+
+Так же после установки ГП было замечено значительное уменьшение отдачи, что в свою очередь значительно продлевает ресурс Оптики установленой на ней и всей винтовки в целом.
+
+&amp;nbsp;
+</description>
+			</offer>
+
+			<offer id="1376" available="true">
+				<url>http://zatvor.com.ua/catalog/pnevmaticheskie-vintovki/pnevmaticheskie-vintovki-Gamo/pnevmaticheskaya-vintovka-Gamo-Viper-Max</url>
+				<price>4850</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1286</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pnevmaticheskaya-vintovka-Gamo-Viper-Max.jpg</picture>
+				<delivery>true</delivery>
+				<name>Gamo Viper Max </name>
+				<vendor>Gamo</vendor>
+				<description>&amp;nbsp;Gamo Viper Max - пружинно-поршневая винтовка &amp;quot;переломка&amp;quot; от известного испанского производителя Гамо.
+
+Данная винтовка выполнена в пластике, а все механизмы и ствол выполнен из высококачественной оружейной стали.
+
+Винтовка&amp;nbsp;&amp;nbsp;Gamo Viper Max имеет очень эстетичный вид, но при этом имеет большую мощность. Данная винтовка оснащена резиновым затыльником который успешно тормозит отдачу и на прикладе установлена регулируемая щека, благодаря которой стрелок может подстроить винтовку под себя.
+
+Винтовка&amp;nbsp;&amp;nbsp;Gamo Viper Max.имеет источник энергии - витую пружину которая взводится методом перелома ствола.
+
+Данная винтовка является универсальной и хорошо подойдет и для начинающим так и для профессиональных стрелков.
+</description>
+			</offer>
+
+			<offer id="1302" available="true">
+				<url>http://zatvor.com.ua/catalog/pnevmaticheskie-vintovki/pnevmaticheskie-vintovki-Cometa/pnevmaticheskaya-vintovka-cometa-300</url>
+				<price>5550</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1299</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pnevmaticheskaya-vintovka-cometa-300.jpg</picture>
+				<delivery>true</delivery>
+				<name>Cometa 300 </name>
+				<vendor>Cometa</vendor>
+				<description>Cometa 300 - классическая пневматическая винтовка &amp;quot;переломка&amp;quot; от Испанского производителя Комета.
+
+Данная винтовка выполнена в дереве, имеет качественный нарезной ствол. Имеет довольно эстетичный вид, что не может не радовать глаз.
+
+Винтовка Cometa 300 &amp;nbsp;взводится при помощи переламывания ствола и имеет начальную скорость полета пули - 260 м/с.
+
+Приклад оснащен резиновым затыльником который успешно гасит отдачу и повышает комфорт стрельбы.
+
+Винтовка&amp;nbsp;Cometa 300 отлично подойдет как для развлекательной так и для спортивной стрельбы на средние дистанции.</description>
+			</offer>
+
+			<offer id="1310" available="true">
+				<url>http://zatvor.com.ua/catalog/pnevmaticheskie-vintovki/pnevmaticheskie-vintovki-beeman/pnevmaticheskaya-vintovka-Beeman-Elkhorn</url>
+				<price>5620</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1307</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pnevmaticheskaya-vintovka-Beeman-Elkhorn.jpg</picture>
+				<delivery>true</delivery>
+				<name>Beeman Elkhorn + пневматический прицел 3x9x32</name>
+				<vendor>Beeman</vendor>
+				<description>Beeman Elkhorn - пружинно поршневая винтовка магнум класса от известной Американской компании Биман. Данная винтовка имеет деревянный приклад и нарезной матчевый&amp;nbsp;канелюрованный&amp;nbsp;ствол, который значительно уменьшает отдачу и повышает точность стрельбы.
+
+Источником энергии винтовки&amp;nbsp;Elkhorn является витая пружина, которая взводится путем переламывания ствола.
+
+Приклад и цевье винтовки Beeman Elkhorn имеют насечки благодаря которым винтовка надежно лежит в руках , а резиновый затыльник на прикладе успешно гасит отдачу и в свою очередь повышает комфорт стрельбы.
+
+Винтовка Beeman Elkhorn хорошо подойдет как для развлекательной так и для спортивной стрельбы на дальние дистанции.</description>
+			</offer>
+
+			<offer id="1370" available="true">
+				<url>http://zatvor.com.ua/catalog/pnevmaticheskie-pistoleti/pnevmaticheskie-pistoleti-asg/pnevmaticheskiy-pistolet-asg-sti-duty-one-blowback</url>
+				<price>2690</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1314</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pnevmaticheskiy-pistolet-asg-sti-duty-one-blowback.jpg</picture>
+				<delivery>true</delivery>
+				<name>ASG STI Duty One Blowback! 4,5 мм</name>
+				<vendor>ASG</vendor>
+				<description>ASG STI Duty One Blawback это отлично исполненная&amp;nbsp;копия знаменитого американского пистолета STI International.Компания&amp;nbsp;ASG скопировала все мельчайшие детали, вплоть до задержки затвора.
+
+Пистолет оснащен 20-ти зарядным&amp;nbsp;магазином, который можно извлечь с помощью кнопочного механизма,а баллончик CO 2 устанавливается в задней части рукояти в спец. камеру.
+
+Пневматический пистолет ASG STI Duty One оснащен системой Blowback
+
+&amp;nbsp;</description>
+			</offer>
+
+			<offer id="1330" available="true">
+				<url>http://zatvor.com.ua/catalog/pyli-dlya-pnevmatiki/pyli-dlya-pnevmatiki-jsb/pyli-dlya-pnevmatiki-JSB-Match-MW</url>
+				<price>314</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1327</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pyli-dlya-pnevmatiki-JSB-Match-MW.jpg</picture>
+				<delivery>true</delivery>
+				<name>JSB Match MW</name>
+				<vendor>JSB</vendor>
+				<description>JSB Match MW - это матчевые пули для пневматических винтовок, предназначены для спортивной стрельбы по бумажным мишеням на расстоянии 10-15 метров.
+
+Данные пули выплавлены из качественного свинца, имеют хорошее распределение центра тяжести, благодаря чему точность и кучность данных пуль на высоте.
+
+Благодаря плоской головке пули&amp;nbsp;Match MW оставляют на бумажной мишени в месте попадания ровный круг и не рвет мишень, что очень важно для подсчета очков.
+
+Пули&amp;nbsp;JSB Match MW отбираются вручную, поэтому в упаковке вы не найдете бракованных пуль.
+</description>
+			</offer>
+
+			<offer id="1343" available="true">
+				<url>http://zatvor.com.ua/catalog/pyli-dlya-pnevmatiki/pyli-dlya-pnevmatiki-Haendler-and-Natermann/pyli-dlya-pnevmatiki-H-and-N-Diabolo-Silver-Point</url>
+				<price>336</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1339</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pyli-dlya-pnevmatiki-H-and-N-Diabolo-Silver-Point.jpg</picture>
+				<delivery>true</delivery>
+				<name>H&amp;N Diabolo Silver Point 4.5 мм</name>
+				<vendor>Haendler &amp; Natermann </vendor>
+				<description>Diabolo Silver Point - это тяжелые свинцовые пули (0,75 гр) произведены известной компанией&amp;nbsp;H&amp;amp;N. Данные пули предназначены для охоты на мелкую дичь так как имеют острую головку и выполнена из твердого свинца, что дает винтовке большую проникающую способность и хорошую стабильность полета пули.
+
+Пули&amp;nbsp;Silver Point имеют хорошо распределенный вес&amp;nbsp;и хорошо нарезаются в стволе, благодаря чему пули менее зависимы от бокового ветра.</description>
+			</offer>
+
+			<offer id="1392" available="true">
+				<url>http://zatvor.com.ua/catalog/priceli-dlya-pnevmatiki/opticheskie-pritselu-air-precision/opticheskiy-pritsel-air-precision-ar-12-50</url>
+				<price>2730</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1389</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/opticheskiy-pritsel-air-precision-ar-12-50.jpg</picture>
+				<delivery>true</delivery>
+				<name>Air Precision AR 12x50 </name>
+				<vendor>Air Precision</vendor>
+				<description>Оптический прицел Air Precision AR 12x50 одинаково заинтересует как охотников так и любителей спортивной стрельбы. Так же прицел оснащен универсальной сеткой Mil-Dot, благодаря которой вы можете откорректировать свой выстрел не внося поправки в оптику.
+
+Данный прицел разрабатывался специально для пневматики класса &amp;quot;Магнум&amp;quot; имеет диаметр линзы 50 мм что дает хороший обзор на больших дистанциях, а стабильная кратность обеспечит долговечность.
+
+Оптика&amp;nbsp;Air Precision AR 12x50 &amp;nbsp;имеет настраиваемый паралакс, который находится с боку прицела.
+
+&amp;nbsp;</description>
+			</offer>
+
+			<offer id="1401" available="true">
+				<url>http://zatvor.com.ua/catalog/priceli-dlya-pnevmatiki/opticheskie-pritselu-bsa/opticheskiy-pritsel-bsa-essential-6-24-50-ao-mill-dot</url>
+				<price>4000</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1398</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/opticheskiy-pritsel-bsa-essential-6-24-50-ao-mill-dot.jpg</picture>
+				<delivery>true</delivery>
+				<name>BSA Essential 6-24х50 АО, Mil-Dot</name>
+				<vendor>BSA Optics</vendor>
+				<description>Ударостойкая оптика&amp;nbsp;BSA Essential 6-24х50 АО хорошо подойдет как для охоты так и для целевой стрельбы на большие расстояния. Данный прицел является прочным и долговечным и отлично подойдет для винтовок класса Магнум с большой отдачей, а так же оптика заполнена азотом, благодаря чему не запотевает при смене температуры.
+
+Прицел&amp;nbsp;BSA Essential 6-24х50 АО имеет кратность от 6 до 24x и линзу на выходе в 50 мм, что дает широкий обзор на больших дистанциях. Так же данный прицел обладает прицельной маркой&amp;nbsp;Mil-Dot.
+
+&amp;nbsp;</description>
+			</offer>
+
+			<offer id="1406" available="true">
+				<url>http://zatvor.com.ua/catalog/kreplenie-dlya-opticheskogo-pritsela/kreplenie-dlya-optiki-bsa/kreplenie-kolca-BSA-DHHR30</url>
+				<price>335</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1403</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/kreplenie-kolca-BSA-DHHR30.jpg</picture>
+				<delivery>true</delivery>
+				<name>Крепление-кольца BSA DHHR30, 30 мм , 11 мм, высокое</name>
+				<vendor>BSA Optics</vendor>
+				<description>Высокие крепление-кольца BSA DHHR30 для крепления оптики имеют посадочное место в 30 мм и устанавливаются на планку 11 мм &amp;quot;Ласточкин Хвост&amp;quot;</description>
+			</offer>
+
+			<offer id="1411" available="true">
+				<url>http://zatvor.com.ua/catalog/kreplenie-dlya-opticheskogo-pritsela/kreplenie-dlya-optiki-leapers/kreplenie-dlya-optiki-Leapers-Accushot-mono_2</url>
+				<price>589</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1408</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/kreplenie-dlya-optiki-Leapers-Accushot-mono_2.jpg</picture>
+				<delivery>true</delivery>
+				<name>Крепление для оптики Leapers Accushot МОНО, 1&quot;, среднее</name>
+				<vendor>UTG Leapers</vendor>
+				<description>Крепление-моноблок&amp;nbsp;Leapers Accushot МОНО (среднее) предназначено для использования на пневматических и малокалиберных винтовках. Устанавливается на планку 11 мм &amp;quot;Ласточкин Хвост&amp;quot; и фиксируется с помощью трех болтов под шестигранный ключ.</description>
+			</offer>
+
+			<offer id="1432" available="true">
+				<url>http://zatvor.com.ua/catalog/pyli-dlya-pnevmatiki/pyli-dlya-pnevmatiki-Crosman/Crosman-Super-Point-k-177</url>
+				<price>235</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1423</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/Crosman-Super-Point-k-177.jpg</picture>
+				<delivery>true</delivery>
+				<name>Crosman Super Point к.177 500 шт.</name>
+				<vendor>Crosman</vendor>
+				<description>Высококачественные свинцовые пули для пневматических винтовок 4.5 мм. кал. Crosman Super Point, отлично подойдут для развлекательной стрельбы, для стрельбы по мишеням&amp;nbsp;и для плинкинга. Боеприпас имеет острую форму головки что дает высокую проникающую способность. Пуля обладает хорошей настильностью полета, благодаря хорошему распределению веса пули.
+</description>
+			</offer>
+
+			<offer id="1227" available="true">
+				<url>http://zatvor.com.ua/catalog/pnevmaticheskie-vintovki/pnevmaticheskie-vintovki-Hatsan/pnevmaticheskaya-vintovka-HATSAN-70</url>
+				<price>2720</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1257</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pnevmaticheskaya-vintovka-HATSAN-70.jpg</picture>
+				<delivery>true</delivery>
+				<name>Hatsan mod 70</name>
+				<vendor>Hatsan</vendor>
+				<description>Hatsan mod 70 - это бюджетная пневматическая винтовка магнум класса от известного турецкого производителя Хатсан. Не смотря на свою небольшую цену винтовка собрана качественно и обладает хорошей точностью благодаря качественному нарезному стволу.
+
+Винтовка Хатсан 70 выполнена из качественного пластика, а приклад оснащен резиновым затыльником который успешно поглащает отдачу, благодаря чему стрельть с винтовки&amp;nbsp;Хатсан 70 гораздо удобнее
+
+винтовка&amp;nbsp;Hatsan 70 отлично подойдет для спортивной стрельбы по мишеням на средние дистанции, а так же для развлекательной стрельбы.
+
+&amp;nbsp;
+</description>
+			</offer>
+
+			<offer id="1264" available="true">
+				<url>http://zatvor.com.ua/catalog/pnevmaticheskie-vintovki/latek-chaika/pnevmaticheskaya-vintovka-chayka-mod--12m</url>
+				<price>3350</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1258</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pnevmaticheskaya-vintovka-chayka-mod--12m.jpg</picture>
+				<delivery>true</delivery>
+				<name>Чайка mod. 12м</name>
+				<vendor>ЛАТЭК</vendor>
+				<description>Чайка 12 м - это пневматическая винтовка магнум класса от отечественного завода &amp;quot;ЛАТЭК&amp;quot;. Винтовка выполнена в пластике, имеет удобный ортопедический приклад и так же имеет нарезной ствол который сделан с высококачественного сырья.
+
+Винтовка Чайка 12 м имеет газовую пружину, которая взводится путем переламывания ствола.
+
+После установки пружины значительно уменьшилась отдача, винтовка избавилась от лишнего дребезга, а так же вырос ресурс винтовки в целом.
+
+Винтовка оснащена резиновым затыльником, который успешно гасит отдачу при выстреле.
+
+Пневматическая винтовка&amp;nbsp;Чайка 12 м - отличный вариант для стрельбы на дальние дистанции
+</description>
+			</offer>
+
+			<offer id="1278" available="true">
+				<url>http://zatvor.com.ua/catalog/pnevmaticheskie-vintovki/pnevmaticheskie-vintovki-crosman/pnevmaticheskaya-vintovka-Crosman-Nitro-Venom</url>
+				<price>4750</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1274</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pnevmaticheskaya-vintovka-Crosman-Nitro-Venom.jpg</picture>
+				<delivery>true</delivery>
+				<name>Crosman Nitro Venom + оптический прицел</name>
+				<vendor>Crosman</vendor>
+				<description>Crosman Nitro Venom - это элегантная и в тоже время мощная винтовка, которая обладает высокой точностью благодаря качетвенному стволу. На стволе так же установлен резиновый надульник, благодаря которому винтовку удобнее заряжать. Винтовка Кросман Нитро Веном представлена в дереве и имеет удобную щеку Монте Карло, благодаря чему стрелять гораздо удобнее, эргономичный приклад с насечками позволит надежно держать винтовку в руках.
+
+Еще одно преимущество винтовки&amp;nbsp;&amp;nbsp;Nitro Venom - это газовая пружина, благодаря которой существенно уменьшилась отдача и вырос ресурс винтовки в целом.&amp;nbsp;
+
+К винтовке&amp;nbsp;Crosman Venom в комплект так же входит оптический прицел 3-9x32 ,который позволит вести стрельбу на дальние дистанции.</description>
+			</offer>
+
+			<offer id="1377" available="true">
+				<url>http://zatvor.com.ua/catalog/pnevmaticheskie-vintovki/pnevmaticheskie-vintovki-Gamo/pnevmaticheskaya-vintovka-Gamo-Hunter-DX</url>
+				<price>4950</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1286</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pnevmaticheskaya-vintovka-Gamo-Hunter-DX.jpg</picture>
+				<delivery>true</delivery>
+				<name>Gamo Hunter DX кал.4,5</name>
+				<vendor>Gamo</vendor>
+				<description>Gamo Hunter DX (Испания) - пневматическая винтовка &amp;quot;переломка&amp;quot;,&amp;nbsp;имеет приклад&amp;nbsp;из натурального дерева который оснащен резиновым затыльником для гашения отдачи и имеет регулируемую щеку для удобства стрельбы.
+
+Винтовка&amp;nbsp;Gamo Hunter DX взводится способом переламывания ствола и имеет источник энергии витую пружину.
+
+Ствол винтовки&amp;nbsp;Hunter DX выполнен из качественной стали, благодаря чему винтовка стреляет точно и кучно, а так же имеет открытые прицельные приспособления ( Целик и мушку с фибергласовыми нитями).
+
+Винтовка&amp;nbsp;Gamo Hunter DX отличный выбор для стрельбы на большие дистанции.</description>
+			</offer>
+
+			<offer id="1303" available="true">
+				<url>http://zatvor.com.ua/catalog/pnevmaticheskie-vintovki/pnevmaticheskie-vintovki-Cometa/pnevmaticheskaya-vintovka-Cometa-220-Compact</url>
+				<price>3430</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1299</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pnevmaticheskaya-vintovka-Cometa-220-Compact.jpg</picture>
+				<delivery>true</delivery>
+				<name>Cometa 220 Compact</name>
+				<vendor>Cometa</vendor>
+				<description>Cometa 220 Compact - классическая пружинно-поршневая винтовка от испанского производителя комета.
+
+Данная винтовка выполнена в дереве и имеет нарезной ствол который сделан из высококачественной стали.
+
+винтовка&amp;nbsp;Cometa 220 Compact отличается от модели&amp;nbsp;Cometa 220 Compact укороченным стволом на 10 см и установленным на него саундмодератором.
+
+Благодаря высокому качеству ствола, винтовка&amp;nbsp;Cometa 220 Compact может похвалиться своей точностью и кучностью.
+
+Винтовка&amp;nbsp;Cometa 220 Compact имеет среднюю мощность и отлично подойдет для развлекательной стрельбы, а так же для спортивной стрельбы на средние дистанции.</description>
+			</offer>
+
+			<offer id="1311" available="true">
+				<url>http://zatvor.com.ua/catalog/pnevmaticheskie-vintovki/pnevmaticheskie-vintovki-beeman/pnevmaticheskaya-vintovka-Beeman-Grizzly-X2</url>
+				<price>4850</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1307</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pnevmaticheskaya-vintovka-Beeman-Grizzly-X2.jpg</picture>
+				<delivery>true</delivery>
+				<name>Beeman Grizzly X2 + чехол и оптический прицел 3x9x32</name>
+				<vendor>Beeman</vendor>
+				<description>Beeman Grizzly X2 - пружинно поршневая винтовка от компании Бимен имеет деревянный приклад из твердой породы дерева и нарезной ствол сделан из высококачественной стали, что важно для винтовок класса &amp;quot;Магнум&amp;quot;
+
+Винтовка&amp;nbsp;Beeman Grizzly X2 взводится путем переламывания ствола и имеет источником энергии витую пружину.
+
+Особенностью винтовки&amp;nbsp;Grizzly X2 является ее съемный ствол для удобной транспортировки.
+
+Данная винтовка отличный выбор для любителей мощных винтовок, а так же для стрельбы на дальние дистанции.</description>
+			</offer>
+
+			<offer id="1371" available="true">
+				<url>http://zatvor.com.ua/catalog/pnevmaticheskie-pistoleti/pnevmaticheskie-pistoleti-asg/pnevmaticheskiy-pistolet-asg-steyr-m9-a1</url>
+				<price>2250</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1314</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pnevmaticheskiy-pistolet-asg-steyr-m9-a1.jpg</picture>
+				<delivery>true</delivery>
+				<name> ASG Steyr M9-A1 4,5 мм вставка никель</name>
+				<vendor>ASG</vendor>
+				<description>Данный пистолет является точной копией австрийского&amp;nbsp;Steyr M9-A1, который спроектирован для гражданского пользования и прав. органов. Пистолет&amp;nbsp;&amp;nbsp;имеет очень удобную и эргономичную копию, что в точности передала компания&amp;nbsp;&amp;nbsp;ASG.
+
+Пистолет можно оснастить лазерным целеуказателем или фонарем.
+
+Источником энергии пистолета&amp;nbsp;&amp;nbsp;ASG Steyr M9-A1 никель является СО 2 баллон сжатого газа, который установлен под рукояткой.&amp;nbsp;Для установки баллона нужно отнять назад&amp;nbsp;пластиковую рукоять.
+
+Пистолет оснащен магазином в 20 пуль, который извлекается при помощи кнопочного механизма.</description>
+			</offer>
+
+			<offer id="1331" available="true">
+				<url>http://zatvor.com.ua/catalog/pyli-dlya-pnevmatiki/pyli-dlya-pnevmatiki-jsb/pyli-dlya-pnevmatiki-jsb-match-diabolo-s100</url>
+				<price>314</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1327</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pyli-dlya-pnevmatiki-jsb-match-diabolo-s100.jpg</picture>
+				<delivery>true</delivery>
+				<name>JSB Match Diabolo S100 </name>
+				<vendor>JSB</vendor>
+				<description>JSB Match Diabolo S100 - матчевые пули для спортивной стрельбы по бумажным мишеням на расстоянии 10 метров.
+
+Данные пули имеют плоскую головку, которая при попадании в мишень оставляет ровную круглую дырочку, что удобно при подсчете очков.
+
+Пули&amp;nbsp;JSB Match Diabolo S100 сортируются в ручную что обеспечит вас от брака в упаковке.</description>
+			</offer>
+
+			<offer id="1344" available="true">
+				<url>http://zatvor.com.ua/catalog/pyli-dlya-pnevmatiki/pyli-dlya-pnevmatiki-Haendler-and-Natermann/pyli-dlya-pnevmatiki-Field-and-Target-Trophy</url>
+				<price>256</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1339</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pyli-dlya-pnevmatiki-Field-and-Target-Trophy.jpg</picture>
+				<delivery>true</delivery>
+				<name>H&amp;N Field &amp; Target Trophy 4,5 мм</name>
+				<vendor>Haendler &amp; Natermann </vendor>
+				<description>H&amp;amp;N Field &amp;amp; Target Trophy - качественные свинцовые пули имеют овальную форму и выплавлены из качественного свинца, благодаря чему ствол не так быстро загрязняется, а пуля имеет высокую стабильность и скорость полета.
+
+Пули&amp;nbsp;Field &amp;amp; Target Trophy - отлично подойдут для охоты на малую дичь, а так же для стрельбы на средние и дальние дистанции.</description>
+			</offer>
+
+			<offer id="1393" available="true">
+				<url>http://zatvor.com.ua/catalog/priceli-dlya-pnevmatiki/opticheskie-pritselu-air-precision/opticheskiy-pritsel-air-precision-3-12x56ID-30-mm</url>
+				<price>9850</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1389</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/opticheskiy-pritsel-air-precision-3-12x56ID-30-mm.jpg</picture>
+				<delivery>true</delivery>
+				<name>Air Precision 3-12x56ID 30 mm</name>
+				<vendor>Air Precision</vendor>
+				<description>Оптический прицел серии Premium&amp;nbsp;Air Precision 3-12x56ID 30 mm отлично подойдет для охоты. Данный прицел испытывался на устойчивость к отдаче боевым карабином калибра 300 mag.
+
+Прицел имеет традиционную сетку German 4 с подсветкой&amp;nbsp;и переменную кратность 3 - 12x, а так же выходную линзу в 56 мм в диаметре, благодаря чему обзор из данного прицела довольно широк.
+
+&amp;nbsp;</description>
+			</offer>
+
+			<offer id="1402" available="true">
+				<url>http://zatvor.com.ua/catalog/priceli-dlya-pnevmatiki/opticheskie-pritselu-bsa/opticheskiy-pritsel-bsa-stealth-tactical-range-4-16x44-ir-mil-dot</url>
+				<price>5050</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1398</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/opticheskiy-pritsel-bsa-stealth-tactical-range-4-16x44-ir-mil-dot.jpg</picture>
+				<delivery>true</delivery>
+				<name>BSA Stealth Tactical Range 4-16х44 IR, Mil-Dot</name>
+				<vendor>BSA Optics</vendor>
+			</offer>
+
+			<offer id="1407" available="true">
+				<url>http://zatvor.com.ua/catalog/kreplenie-dlya-opticheskogo-pritsela/kreplenie-dlya-optiki-bsa/kreplenie-kolca-BSA-DHWHR30</url>
+				<price>299</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1403</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/kreplenie-kolca-BSA-DHWHR30.jpg</picture>
+				<delivery>true</delivery>
+				<name>Крепление-кольца BSA DHWHR30, 30 мм , Weaver, высокое</name>
+				<vendor>BSA Optics</vendor>
+				<description>Высокие крепления-кольца&amp;nbsp;BSA DHWHR30 подходят для оптики с трубой в 30 мм и устанавливаются на планку Вивера.
+</description>
+			</offer>
+
+			<offer id="1412" available="true">
+				<url>http://zatvor.com.ua/catalog/kreplenie-dlya-opticheskogo-pritsela/kreplenie-dlya-optiki-leapers/kreplenie-dlya-optiki-Leapers-Accushot-mono--30mm--vysokoe</url>
+				<price>619</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1408</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/kreplenie-dlya-optiki-Leapers-Accushot-mono--30mm--vysokoe.jpg</picture>
+				<delivery>true</delivery>
+				<name>Крепление для оптики Leapers Accushot МОНО, 30мм, высокое</name>
+				<vendor>UTG Leapers</vendor>
+				<description>Крепление для оптики типа моноблок&amp;nbsp;Leapers Accushot МОНО, 30 мм (высокое), сделано из качественного и легкого авиационного алюминия. Подойдет для оптических прицелов с диаметром трубы 30 мм.
+
+Данный моноблок крепится на планку 11 мм &amp;quot;Ласточкин хвост&amp;quot;и&amp;nbsp;фиксируется тремя болтами под шестигранник, а так же предотвращает сдвижение моноблока благодаря стопорному винту.</description>
+			</offer>
+
+			<offer id="1433" available="true">
+				<url>http://zatvor.com.ua/catalog/pyli-dlya-pnevmatiki/pyli-dlya-pnevmatiki-Crosman/Crosman-Ultra-Magnum-k-177-500sht</url>
+				<price>299</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1423</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/Crosman-Ultra-Magnum-k-177-500sht.jpg</picture>
+				<delivery>true</delivery>
+				<name>Crosman Ultra Magnum к.177 500шт</name>
+				<vendor>Crosman</vendor>
+				<description>Пули&amp;nbsp;Ultra Magnum 0,68 гр. от компании Crosman уже не первый год удерживают свою популярность среди обладателей пневматического оружия класса Магнум. Данные пули очень хорошо показывают себя при стрельбе на дальние дистанции с мощных винтовок, а так же благодаря хорошему распределению веса и качественному свинцу, пуля летит настильно и стабильно. Пули Crosman Ultra Magnum - гарант качества и высокоточной стрельбы.</description>
+			</offer>
+
+			<offer id="1229" available="true">
+				<url>http://zatvor.com.ua/catalog/pnevmaticheskie-vintovki/pnevmaticheskie-vintovki-Hatsan/pnevmaticheskaya-vintovka-HATSAN-80</url>
+				<price>2980</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1257</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pnevmaticheskaya-vintovka-HATSAN-80.jpg</picture>
+				<delivery>true</delivery>
+				<name>Hatsan mod 80</name>
+				<vendor>Hatsan</vendor>
+				<description>Hatsan mod 80 - это классическая пневматическая винтовка от знаменитой турецкой фирмы Хатсан.
+
+Данная винтовка выполнена в пластике и имеет усовершенствованный приклад SAS (система гашения отдачи). На прикладе и цевье есть насечки благодаря которым винтовка удобно лежит в руках.
+
+Хатсан 80 обладает качественным нарезным стволом, благодаря чему повышается точность стрельбы.
+
+Пневматическая винтовка&amp;nbsp;Hatsan 80 отличный вариант для развлекательной стрельбы, а так же подойдет для спортивно-тренировочной стрельбы по мишеням на средние дистанции.
+
+&amp;nbsp;</description>
+			</offer>
+
+			<offer id="1265" available="true">
+				<url>http://zatvor.com.ua/catalog/pnevmaticheskie-vintovki/latek-chaika/pnevmaticheskaya-vintovka-chayka-mod--p</url>
+				<price>1899</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1258</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pnevmaticheskaya-vintovka-chayka-mod--p.jpg</picture>
+				<delivery>true</delivery>
+				<name>Чайка mod. Р</name>
+				<vendor>ЛАТЭК</vendor>
+				<description>Чайка mod Р - это пневматическая винтовка от Украинского производителя &amp;quot;ЛАТЭК&amp;quot;. винтовка выполнена в пластике и имеет достойный вид. Источник энергии данной винтовки - витая пружина, которая взводится путем переламывания ствола.
+
+Воздушка Чайка мод Р - отличный вариант как для начинающих стрелков так и для стрельбы на средние и дальние дистанции.
+
+Так же данная винтовка имеет надежный и качественный нарезной ствол, который не подведет вас во время стрельбы.
+
+Приклад винтовки имеет эргономичную щеку и резиновый затыльник который гасит отдачу и в свою очередь повышает комфорт стрельбы и улучшит ваши результаты.
+
+&amp;nbsp;
+</description>
+			</offer>
+
+			<offer id="1279" available="true">
+				<url>http://zatvor.com.ua/catalog/pnevmaticheskie-vintovki/pnevmaticheskie-vintovki-crosman/pnevmaticheskaya-vintovka-Crosman-TR77-NP</url>
+				<price>3950</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1274</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pnevmaticheskaya-vintovka-Crosman-TR77-NP.jpg</picture>
+				<delivery>true</delivery>
+				<name>Crosman TR77 NP + оптический прицел</name>
+				<vendor>Crosman</vendor>
+				<description>Пневматическая винтовка Crosman TR77 NP - мощная винтовка которая исполнена в тактическом стиле. Данная винтовка отличается от своего младшего брата&amp;nbsp;Crosman TR77 (витая пружина) укороченным стволом, а так же вместо витой пружины на винтовку была установлена газовая пружина Nitro Piston ,запатентована компанией&amp;nbsp;Crosman.&amp;nbsp;
+
+Преимущество газовой пружины в ее долговечности, так же после установки ГП на винтовку Crosman TR77 NP NP&amp;nbsp;вырос ресурс винтовки в целом.Увеличилась мощность, уменьшилась отдача и выросла кучность стрельбы.
+
+Так же данная винтовка оснащена оптическим прицелом 4x32 и креплением к нему
+
+Crosman TR77 NP - отличная винтовка для стрельбы по мишеням на средние дистанции.</description>
+			</offer>
+
+			<offer id="1378" available="true">
+				<url>http://zatvor.com.ua/catalog/pnevmaticheskie-vintovki/pnevmaticheskie-vintovki-Gamo/pnevmaticheskaya-Gamo-Socom-Tactical</url>
+				<price>3990</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1286</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pnevmaticheskaya-Gamo-Socom-Tactical.jpg</picture>
+				<delivery>true</delivery>
+				<name>Gamo Socom Tactical </name>
+				<vendor>Gamo</vendor>
+				<description>Пневматическая винтовка&amp;nbsp;Gamo Socom Tactical исполнена в тактическом стиле, имеет внушающий вид и достойные характеристики мощности и точности.
+
+Данная винтовка выполнена в пластике и имеет надежный и качественный нарезной ствол.
+
+Винтовка&amp;nbsp;Gamo Socom Tactical имеет резиновый затыльник на прикладе, а так же для удобства стрелка на приклад была встроена регулируемая щека.
+
+Винтовка стреляет за счет витой пружины и взводится путем перелома ствола.
+
+Пневматическая винтовка&amp;nbsp;Gamo Socom Tactical отлично подойдет для развлекательной стрельбы или для целевой стрельбы на дальние дистанции.</description>
+			</offer>
+
+			<offer id="1304" available="true">
+				<url>http://zatvor.com.ua/catalog/pnevmaticheskie-vintovki/pnevmaticheskie-vintovki-Cometa/pnevmaticheskaya-vintovka-Cometa-400-Fenix-Compact</url>
+				<price>7800</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1299</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pnevmaticheskaya-vintovka-Cometa-400-Fenix-Compact.jpg</picture>
+				<delivery>true</delivery>
+				<name>Cometa 400 Fenix Compact</name>
+				<vendor>Cometa</vendor>
+				<description>Cometa 400 Fenix Compact - классическая пневматическая винтовка переломного типа от Испанского производителя Комета.
+
+Данная винтовка выполнена из качественного дерева, а нарезной ствол сделан из высококачественной стали.
+
+На прикладе винтовки&amp;nbsp;Cometa 400 Fenix Compact установлен резиновый затыльник смягчающий отдачу,а так же приклад имеет щеку &amp;quot;Монте Карло&amp;quot; что значительно повышает комфорт при стрельбе.
+
+Данная винтовка отличается от модели&amp;nbsp;Cometa 400 Fenix укороченным стволом и установленным на него саундмодератором.
+
+Винтовка&amp;nbsp;Cometa 400 Fenix Compact - лучший выбор как для развлекательной стрельбы, так и для спортивной стрельбы по мишеням на дальние дистанции.
+
+&amp;nbsp;</description>
+			</offer>
+
+			<offer id="1312" available="true">
+				<url>http://zatvor.com.ua/catalog/pnevmaticheskie-vintovki/pnevmaticheskie-vintovki-beeman/pnevmaticheskaya-Beeman-Bear-Claw</url>
+				<price>5280</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1307</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pnevmaticheskaya-Beeman-Bear-Claw.jpg</picture>
+				<delivery>true</delivery>
+				<name>Beeman Bear Claw + оптический прицел 3x9x32</name>
+				<vendor>Beeman</vendor>
+				<description>Beeman Bear Claw выполнена в твердом дереве, а так же имеет тяжелый матчевый ствол который выполнен из высококачественной стали.
+
+Удобный приклад оснащен резиновым затыльником для гашения отдачи и имеет пистолетную рукоять что обеспечит комфортную стрельбу.
+
+Источником энергии винтовки&amp;nbsp;Beeman Bear Claw выступает витая пружина, которая взводится переломом ствола.
+
+Так же винтовка&amp;nbsp;Bear Claw оснащена оптическим прицелом 3x9x32.
+
+Пневматическая винтовка Beeman Bear Claw - отличный выбор для целевой и развлекательной стрельбы.</description>
+			</offer>
+
+			<offer id="1372" available="true">
+				<url>http://zatvor.com.ua/catalog/pnevmaticheskie-pistoleti/pnevmaticheskie-pistoleti-asg/pnevmaticheskiy-pistolet-asg-steyr-md-a1-4-4-mm</url>
+				<price>1380</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1314</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pnevmaticheskiy-pistolet-asg-steyr-md-a1-4-4-mm.jpg</picture>
+				<delivery>true</delivery>
+				<name>ASG Steyr M9-A1 4,5 мм</name>
+				<vendor>ASG</vendor>
+				<description>Данный пистолет, это точная копия знаменитого Австрийского пистолета&amp;nbsp;Steyr M9, который был разработан специально для гражданского пользования и правоохранительных органов.
+
+Пистолет&amp;nbsp;ASG Steyr M9 A1 является очень эргономичным и удобным, что с точностью до мельчайшей детали передала компания ASG.
+
+Источником энергии пистолета&amp;nbsp;ASG Steyr M9-A1 является баллон CO 2 , который вставляется в рукоять.
+
+Пистолет оснащен магазином в 20 пуль.</description>
+			</offer>
+
+			<offer id="1332" available="true">
+				<url>http://zatvor.com.ua/catalog/pyli-dlya-pnevmatiki/pyli-dlya-pnevmatiki-jsb/pyli-dlya-pnevmatiki-JSB-Diabolo-Straton</url>
+				<price>269</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1327</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pyli-dlya-pnevmatiki-JSB-Diabolo-Straton.jpg</picture>
+				<delivery>true</delivery>
+				<name> JSB Diabolo Straton</name>
+				<vendor>JSB</vendor>
+				<description>&amp;nbsp;JSB Diabolo Straton - это свинцовые пули для пневматики которые отлично подойдут как и для целевой стрельбы так и для охоты на мелкую дичь.
+
+Благодаря своей остроконечной головке пуля имеет хорошую настильность и хорошее проникающие действие.
+
+каждая пуля&amp;nbsp;&amp;nbsp;JSB Diabolo Straton отбирается в ручную, что обезопасит вас от брака. Пуля имеет хорошее распределения веса пули и отлично нарезается в стволе, что дает высокую точность и кучность.</description>
+			</offer>
+
+			<offer id="1345" available="true">
+				<url>http://zatvor.com.ua/catalog/pyli-dlya-pnevmatiki/pyli-dlya-pnevmatiki-Haendler-and-Natermann/pyli-dlya-pnevmatiki-Crow-Magnum-Diabolo</url>
+				<price>286</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1339</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pyli-dlya-pnevmatiki-Crow-Magnum-Diabolo.jpg</picture>
+				<delivery>true</delivery>
+				<name>H&amp;N Crow Magnum Diabolo 4,5 мм</name>
+				<vendor>Haendler &amp; Natermann </vendor>
+				<description>H&amp;amp;N Crow Magnum Diabolo - свинцовые пули для пневматического оружия, которые обладаю уникальной формы головки. Головка пули имеет углубление внутрь, что значительно повышает экспансивность пули и ее останавливающее действие.
+
+При попадании в цель, пули&amp;nbsp;Crow Magnum Diabolo раскрываются и делают большое разорванное отверстие.
+
+Данные пули отлично подойдут для охоты на мелкую дичь и для стрельбы на средние дистанции.</description>
+			</offer>
+
+			<offer id="1394" available="true">
+				<url>http://zatvor.com.ua/catalog/priceli-dlya-pnevmatiki/opticheskie-pritselu-air-precision/opticheskiy-pritsel-air-precision-4-1656ID-30-mm</url>
+				<price>10030</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1389</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/opticheskiy-pritsel-air-precision-4-1656ID-30-mm.jpg</picture>
+				<delivery>true</delivery>
+				<name>Air Precision 4-1656ID 30 mm</name>
+				<vendor>Air Precision</vendor>
+				<description>&amp;nbsp;Air Precision 4-1656ID - серии Premium специально разработаны для охоты. Серия прицелов Премиум проходила тестирование на боевом оружии в плоть о калибра 300 Win.mag.
+
+&amp;nbsp;Данный прицел обладает стандартной сеткой German№4 с подсветкой , имеет переменную кратность от 4х до 16х и диаметр выходной линзы в 56 мм.&amp;nbsp;
+
+Показатели прицела &amp;nbsp;Air Precision 4-1656ID&amp;nbsp;позволят с легкостью вести стрельбу на экстремально большие дистанции.
+
+&amp;nbsp;</description>
+			</offer>
+
+			<offer id="1413" available="true">
+				<url>http://zatvor.com.ua/catalog/kreplenie-dlya-opticheskogo-pritsela/kreplenie-dlya-optiki-leapers/kreplenie-dlya-optiki-Leapers-Accushot-mono--30mm--srednee</url>
+				<price>599</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1408</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/kreplenie-dlya-optiki-Leapers-Accushot-mono--30mm--srednee.jpg</picture>
+				<delivery>true</delivery>
+				<name>Крепление для оптики Leapers Accushot МОНО, 30мм, среднее</name>
+				<vendor>UTG Leapers</vendor>
+				<description>Крепление для оптики типа моноблок&amp;nbsp;Leapers Accushot МОНО, 30 мм (среднее), сделано из качественного и легкого авиационного алюминия. Подойдет для оптических прицелов с диаметром трубы 30 мм.
+
+Данный моноблок крепится на планку 11 мм &amp;quot;Ласточкин хвост&amp;quot;и&amp;nbsp;фиксируется тремя болтами под шестигранник, а так же предотвращает сдвижение моноблока благодаря стопорному винту.</description>
+			</offer>
+
+			<offer id="1434" available="true">
+				<url>http://zatvor.com.ua/catalog/pyli-dlya-pnevmatiki/pyli-dlya-pnevmatiki-Crosman/Crosman-Competition-kal-177-4-5mm--500sht</url>
+				<price>180</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1423</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/Crosman-Competition-kal-177-4-5mm--500sht.jpg</picture>
+				<delivery>true</delivery>
+				<name>Crosman Competition 4,5мм. 500шт.</name>
+				<vendor>Crosman</vendor>
+				<description>Пули&amp;nbsp;Crosman Competition имеют плоскую головку и предназначены для спортивной и развлекательной стрельбы по мишеням. Пули выплавлены из высококачественного свинца и имеют хорошую настильность полета</description>
+			</offer>
+
+			<offer id="1231" available="true">
+				<url>http://zatvor.com.ua/catalog/pnevmaticheskie-vintovki/pnevmaticheskie-vintovki-Hatsan/pnevmaticheskaya-vintovka-HATSAN-90</url>
+				<price>3200</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1257</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pnevmaticheskaya-vintovka-HATSAN-90.jpg</picture>
+				<delivery>true</delivery>
+				<name>Hatsan mod 90</name>
+				<vendor>Hatsan</vendor>
+				<description>Hatsan mod 90 - это классическая, пружинно-поршневая винтовка от известной турецкой фирмы Хатсан.
+
+Данная винтовка является бюджетной моделью и отлично подойдет для развлекательной стрельбы.
+
+Витая пружина винтовки Хатсан 90 взводится методом перелома ствола.
+
+Винтовка исполнена в пластике и имеет качественный нарезной ствол.
+
+Купить Хатсан 90вы можете в нашем магазине по самой выгодной цене.
+
+
+
+</description>
+			</offer>
+
+			<offer id="1280" available="true">
+				<url>http://zatvor.com.ua/catalog/pnevmaticheskie-vintovki/pnevmaticheskie-vintovki-crosman/pnevmaticheskaya-vintovka-Crosman-TR77</url>
+				<price>3250</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1274</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pnevmaticheskaya-vintovka-Crosman-TR77.jpg</picture>
+				<delivery>true</delivery>
+				<name>Crosman TR77 + оптический прицел</name>
+				<vendor>Crosman</vendor>
+				<description>Мощная винтовка Crosman TR77 исполнена в тактическом стиле, источником энергии который выступает витая пружина. Данная винтовка&amp;nbsp;обладает качественным нарезным стволом, а также имеет удобный приклад с резиновым затыльником который успешно смягчает отдачу.
+
+Так же пневматическая винтовка&amp;nbsp;Crosman TR77 укомплектована оптическим прицелом Center Point 4x32, что позволяет вести точную прицельную стрельбу на средние дистанции.
+
+Винтовка Кросман ТР 77 предназначена для развлекательной и спортивной стрельбы</description>
+			</offer>
+
+			<offer id="1379" available="true">
+				<url>http://zatvor.com.ua/catalog/pnevmaticheskie-vintovki/pnevmaticheskie-vintovki-Gamo/pnevmaticheskaya-vintovka-Gamo-CFR-Whisper</url>
+				<price>6550</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1286</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pnevmaticheskaya-vintovka-Gamo-CFR-Whisper.jpg</picture>
+				<delivery>true</delivery>
+				<name> Gamo CFR Whisper</name>
+				<vendor>Gamo</vendor>
+				<description>Пневматическая винтовка&amp;nbsp;&amp;nbsp;Gamo CFR Whisper выполнена в тактическом стиле, имеет пластиковый приклад с регулируемым подщечником и резиновым затыльником для гашения отдачи.
+
+Данная винтовка имеет фиксированный нарезной ствол и взводится с помощью&amp;nbsp;подствольного рычага.
+
+Благодаря фиксированному стволу, винтовка&amp;nbsp;&amp;nbsp;Gamo CFR Whisper может похвалится своей точностью и кучностью, а так же винтовка не дребезжит и ничего не звенит благодаря жесткой конструкции.
+
+Пневматическая винтовка&amp;nbsp;&amp;nbsp;Gamo CFR Whisper универсальная и подойдет для различных видов стрельбы, от любительской до профессиональной целевой на дальние дистанции.
+
+&amp;nbsp;</description>
+			</offer>
+
+			<offer id="1305" available="true">
+				<url>http://zatvor.com.ua/catalog/pnevmaticheskie-vintovki/pnevmaticheskie-vintovki-Cometa/pnevmaticheskaya-vintovka-Cometa-Fenix-400-Galaxy</url>
+				<price>6430</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1299</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pnevmaticheskaya-vintovka-Cometa-Fenix-400-Galaxy.jpg</picture>
+				<delivery>true</delivery>
+				<name> Cometa Fenix 400 Galaxy</name>
+				<vendor>Cometa</vendor>
+				<description>&amp;nbsp;Cometa Fenix 400 Galaxy - это элегантная пневматическая винтовка класса &amp;quot;магнум&amp;quot; от Испанского производителя Комета.
+
+Винтовка&amp;nbsp;&amp;nbsp;Cometa Fenix 400 Galaxy выполнена в твердом, высококачественном пластике, и имеет нарезной ствол повышенной твердости.&amp;nbsp;Ствол изготовлен методом холодной ковки, что делает его качественным и долговечным, что не мало важно для винтовок магнумов.
+
+Винтовка&amp;nbsp;&amp;nbsp;имеет источником энергии Газовую пружину которая взводится путем переламывания ствола.
+
+После установки ГП на винтовку Cometa Fenix 400 Galaxy,&amp;nbsp;было замечено значительный прирост мощности, более короткий и менее шумный выстрел, а так же вырос ресурс винтовки в целом.
+
+Данная винтовка отлично подойдет для спортивной и развлекательной стрельбы на дальние дистанции.</description>
+			</offer>
+
+			<offer id="1313" available="true">
+				<url>http://zatvor.com.ua/catalog/pnevmaticheskie-vintovki/pnevmaticheskie-vintovki-beeman/pnevmaticheskaya-vintovka-Beeman-Silver-Kodiak-X2</url>
+				<price>5000</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1307</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pnevmaticheskaya-vintovka-Beeman-Silver-Kodiak-X2.jpg</picture>
+				<delivery>true</delivery>
+				<name>Beeman Silver Kodiak X2+чехол+оптический прицел 3x9x32</name>
+				<vendor>Beeman</vendor>
+				<description>Beeman Silver Kodiak X2 - пневматическая винтовка переломка магнум класса, выполнена в твердом ударостойким&amp;nbsp;пластике и так же имеет нарезной никелированный ствол который сделан из качественной стали.
+
+Особенность винтовки&amp;nbsp;Beeman Silver Kodiak X2 в съемным стволе, благодаря чему оружие удобнее транспортировать.
+
+Ствол винтовки оснащен аэродинамическим компенсатором, благодаря чему отдача в данной винтовки не столь велика.
+
+На стволе имеются насечки, а так же в винтовка укомплектована оптическим прицелом 3x9x32 что позволяет надежно держать винтовку в руках и точно прицеливаться.
+
+Винтовка&amp;nbsp;Beeman Silver Kodiak X2 - хороший выбор для развлекательной стрельбы, а так же для стрельбы на дальние дистанции.</description>
+			</offer>
+
+			<offer id="1373" available="true">
+				<url>http://zatvor.com.ua/catalog/pnevmaticheskie-pistoleti/pnevmaticheskie-pistoleti-asg/pnevmaticheskiy-pistolet-asg-cz-75-p-07</url>
+				<price>1900</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1314</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pnevmaticheskiy-pistolet-asg-cz-75-p-07.jpg</picture>
+				<delivery>true</delivery>
+				<name>ASG CZ 75 P-07 </name>
+				<vendor>ASG</vendor>
+				<description>Данный пневматический пистолет является точной копией огнестрельного оружия&amp;nbsp;Česk&amp;aacute; Zbrojovka.
+
+Продукция компании ASG производится по лицензии что позволяет делать идентичные визуально пистолеты, в чем пистолет&amp;nbsp;ASG CZ 75 P-07 не исключение.
+
+ASG CZ 75 P-07 это идентичный прототип чешского пистолета&amp;nbsp;CZ-75 P-07 Duty, точное сходство в плоть до индивидуального серийного номера и всей маркировки.
+
+Пистолет имеет систему Blowback, имеет нарезы для установки саунд модератора, а так же предусмотрена планка&amp;nbsp;Вивера на которую можно установить фонарь или лазерный указатель.
+
+Источником энергии данного пистолета является баллон CO 2</description>
+			</offer>
+
+			<offer id="1333" available="true">
+				<url>http://zatvor.com.ua/catalog/pyli-dlya-pnevmatiki/pyli-dlya-pnevmatiki-jsb/pyli-dlya-pnevmatiki-jsb-diabolo-exact</url>
+				<price>289</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1327</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pyli-dlya-pnevmatiki-jsb-diabolo-exact.jpg</picture>
+				<delivery>true</delivery>
+				<name>JSB Diabolo Exact</name>
+				<vendor>JSB</vendor>
+				<description>JSB Diabolo Exact - одни из самых популярных свинцовых&amp;nbsp;пуль&amp;nbsp;для пневматики от Чешской компании&amp;nbsp;JSB.
+
+Благодаря особой форме головки пули и качественному свинцу, пули хорошо нарезаются в стволе и имеют хорошую стабильность полета, что позволяет стрелять на дальние дистанции.
+
+Пули Diabolo Exact отбираются в ручную. что обезопасит вас от брака. Все пули имеют точно равный вес, что так же хорошо сказывается на точности и кучности.
+
+&amp;nbsp;
+</description>
+			</offer>
+
+			<offer id="1346" available="true">
+				<url>http://zatvor.com.ua/catalog/pyli-dlya-pnevmatiki/pyli-dlya-pnevmatiki-Haendler-and-Natermann/pyli-dlya-pnevmatiki-Rabbit-Magnum-I-I</url>
+				<price>248</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1339</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pyli-dlya-pnevmatiki-Rabbit-Magnum-I-I.jpg</picture>
+				<delivery>true</delivery>
+				<name>H&amp;N Rabbit Magnum II 4,5 мм 200 шт</name>
+				<vendor>Haendler &amp; Natermann </vendor>
+				<description>Rabbit Magnum II - тяжелые свинцовые пули для пневматических винтовок класса Магнум.
+
+Благодаря большому весу пули (1,02 гр) и уникальной форме, данными пулями можно стрелять да экстремально дальние дистанции от 50 до 200 метров.
+
+Пули&amp;nbsp;Rabbit Magnum II имеют большое останавливающее действие и хорошую стабильность полета, что делает данные пули лучшим выбором для охоты на мелкую дичь.
+
+&amp;nbsp;</description>
+			</offer>
+
+			<offer id="1395" available="true">
+				<url>http://zatvor.com.ua/catalog/priceli-dlya-pnevmatiki/opticheskie-pritselu-air-precision/opticheskiy-pritsel-air-precision-Premium-1-5x24-mm</url>
+				<price>6990</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1389</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/opticheskiy-pritsel-air-precision-Premium-1-5x24-mm.jpg</picture>
+				<delivery>true</delivery>
+				<name>Air Precision Premium 1-5x24 mm, 30mm tube, electricity switch</name>
+				<vendor>Air Precision</vendor>
+				<description>Air Precision Premium 1-5x24 mm - это прицел серии Премиум , прошедший тестирование на огнестрельном оружии в калибре 300 Lapua.mag.
+
+Данный прицел подойдет&amp;nbsp;для стрельбы на короткие и средние дистанции или же для охоты.
+
+Прицел&amp;nbsp;Air Precision Premium 1-5x24 mm имеет переменную кратность 1 - 5х и выходную линзу в 24 мм, а так же оснащен светящейся прцельной сеткой классического типа German. 4
+</description>
+			</offer>
+
+			<offer id="1414" available="true">
+				<url>http://zatvor.com.ua/catalog/kreplenie-dlya-opticheskogo-pritsela/kreplenie-dlya-optiki-leapers/kreplenie-Leapers-UTG-MAX-STRENGTH-QD-LL-kolca--1--nizkoe</url>
+				<price>969</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1408</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/kreplenie-Leapers-UTG-MAX-STRENGTH-QD-LL-kolca--1--nizkoe.jpg</picture>
+				<delivery>true</delivery>
+				<name>Крепление Leapers UTG MAX STRENGTH QD LL кольца, 1&quot;, низкое</name>
+				<vendor>UTG Leapers</vendor>
+				<description>Кольца-крепление&amp;nbsp;Leapers UTG MAX STRENGTH имеют не большой вес но при этом довольно прочные.
+
+Для удобности использования, кольца MAX STRENGTH &amp;nbsp;оснащены быстросьемной системой. Внутренняя часть колец обработана спец.покрытием синтетического происхождения что не даст сьезжать вашей оптике.
+
+Так же под кольцами имеется отверстие которое позволит при необходимости целиться с помощью мушки.</description>
+			</offer>
+
+			<offer id="1294" available="true">
+				<url>http://zatvor.com.ua/catalog/pnevmaticheskie-vintovki/pnevmaticheskie-vintovki-Hatsan/pnevmaticheskaya-vintovka-Hatsan-mod-125-th</url>
+				<price>4550</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1257</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pnevmaticheskaya-vintovka-Hatsan-mod-125-th.jpg</picture>
+				<delivery>true</delivery>
+				<name>Hatsan mod 125 th</name>
+				<vendor>Hatsan</vendor>
+				<description>Hatsan mod 125 th - одна из самых популярных пневматических винтовок переломного типа. Данная винтовка относится к классу &amp;quot;Магнум&amp;quot;. Начальная скорость пули данной винтовки превышает 380 м/с.
+
+Hatsan 125 th исполнена в пластике и имеет качественный стальной, нарезной ствол.
+
+Винтовка&amp;nbsp;Hatsan 125 th отличается от своего младшего брата&amp;nbsp;Hatsan mod 125 своим эргономичным прикладом с пистолетной рукоятью. Благодаря такой конструкции приклада стрелять с винтовки гораздо комфортнее.
+
+Приклад винтовки&amp;nbsp;Hatsan&amp;nbsp;125 th оборудован резиновым затыльником, который гасит отдачу и построен по системе Quattro Trigger &amp; SAS, что сильно повышает удобство эксплуатации винтовки.
+
+Винтовка Хатсан 125 тн - отличный выбор для любителей мощности и охоты на мелкую дичь.
+</description>
+			</offer>
+
+			<offer id="1281" available="true">
+				<url>http://zatvor.com.ua/catalog/pnevmaticheskie-vintovki/pnevmaticheskie-vintovki-crosman/pnevmaticheskaya-vintovka-Crosman-Nitro-Venom-Dusk</url>
+				<price>4300</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1274</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pnevmaticheskaya-vintovka-Crosman-Nitro-Venom-Dusk.jpg</picture>
+				<delivery>true</delivery>
+				<name>Crosman Nitro Venom Dusk + оптический прицел</name>
+				<vendor>Crosman</vendor>
+				<description>Nitro Venom Dusk - это мощная пневматическая винтовка, источником энергии которой является газовая пружина. Благодаря качественному нарезному стволу винтовка имеет высокую точность и хорошую кучность.На конце ствола установлен резиновый надульник, благодаря которому винтовку проще заряжать.
+
+Винтовка nitro venom dusk имеет эргономический приклад с удобной щекой Монте-Карло ,а так же насечки на цевье, что значительно повышает комфорт стрельбы.
+
+После установки ГП на винтовку&amp;nbsp;Nitro Venom Dusk было зафиксировано прирост мощности, выстрел стал тише и стабильней, ничего не дребезжит и не скрежет, а так же увеличился ресурс винтовки в целом.
+
+Так же данная винтовка укомплектована оптическим прицелом Center Point 3x9x32
+
+Винтовка Crosman&amp;nbsp;Nitro Venom Dusk отлично подойдет для прицельной стрельбы на средние и дальние дистанции.</description>
+			</offer>
+
+			<offer id="1384" available="true">
+				<url>http://zatvor.com.ua/catalog/pnevmaticheskie-vintovki/pnevmaticheskie-vintovki-Gamo/pnevmaticheskaya-vintovka-Gamo-CF-X-Royal</url>
+				<price>6890</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1286</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pnevmaticheskaya-vintovka-Gamo-CF-X-Royal.jpg</picture>
+				<delivery>true</delivery>
+				<name>Gamo CF-X Royal </name>
+				<vendor>Gamo</vendor>
+				<description>Пневматическая винтовка Gamo CF-X Royal имеет изящный вид и внушающие характеристики. Данная винтовка выполнена в дереве и имеет качественный фиксированный нарезной ствол.
+Благодаря фиксированному стволу винтовка хорошо себя показывает на высокоточной стрельбе.
+
+Винтовка Gamo CF-X Royal взводится с помощью подствольного рычага и имеет в качестве источника энергии витую пружину.
+
+Винтовка оснащена открытыми и регулируемыми прицельными приспособлениями, а так же имеет резиновый затыльник который служит для гашения отдачи, благодаря чему использовать винтовку гораздо удобнее.
+
+Данная винтовка универсальна и отлично подойдет как новичку так и профессионалу.</description>
+			</offer>
+
+			<offer id="1374" available="true">
+				<url>http://zatvor.com.ua/catalog/pnevmaticheskie-pistoleti/pnevmaticheskie-pistoleti-asg/ASG-CZ-75D-Compact-4-5-mm-vstavka-nikel</url>
+				<price>2400</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1314</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/ASG-CZ-75D-Compact-4-5-mm-vstavka-nikel.jpg</picture>
+				<delivery>true</delivery>
+				<name>ASG CZ 75D Compact 4,5 мм вставка никель</name>
+				<vendor>ASG</vendor>
+				<description>ASG CZ 75D Compact - это точная копия чешского боевого пистолета&amp;nbsp;CZ 75D Compact, которая выполнена с проработкой до мельчайших деталей вплоть до индивидуального серийного номера и маркировки.
+
+Конструкция предусматривает передергивание затворной рамы в ручную, что создает эффект настоящего боевого оружия.
+
+Имеются нарезы для установки глушителя и под стволом предусмотрена планка Вивер на которую вы можете прицепить лазерный указатель или фонарь.
+
+Источником энергии является баллон СО 2, с которого можно сделать 60 полноценных выстрелов.</description>
+			</offer>
+
+			<offer id="1334" available="true">
+				<url>http://zatvor.com.ua/catalog/pyli-dlya-pnevmatiki/pyli-dlya-pnevmatiki-jsb/pyli-dlya-pnevmatiki-JSB-Diabolo-Exact-Express</url>
+				<price>305</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1327</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pyli-dlya-pnevmatiki-JSB-Diabolo-Exact-Express.jpg</picture>
+				<delivery>true</delivery>
+				<name>JSB Diabolo Exact Express</name>
+				<vendor>JSB</vendor>
+				<description>JSB Diabolo Exact Express - качественные, высокоточные свинцовые пули от компании&amp;nbsp;JSB.
+
+Данные пули имеют хорошую настильности и высокую точность благодаря качественному свинцу и хорошему распределению веса пули.
+
+Пули&amp;nbsp;SB Diabolo Exact Express отлично подойдут как для любительской стрельбы так и для спортивной стрельбы на дальние расстояния.
+</description>
+			</offer>
+
+			<offer id="1347" available="true">
+				<url>http://zatvor.com.ua/catalog/pyli-dlya-pnevmatiki/pyli-dlya-pnevmatiki-Haendler-and-Natermann/pyli-dlya-pnevmatiki-Econ</url>
+				<price>99</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1339</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pyli-dlya-pnevmatiki-Econ.jpg</picture>
+				<delivery>true</delivery>
+				<name> H&amp;N Econ 0,48 г 4,5 мм</name>
+				<vendor>Haendler &amp; Natermann </vendor>
+				<description>&amp;nbsp;H&amp;amp;Nэнергией.
+
+Пули имеют небольшой вес в 0,48 и плоскую головку. Пули предназначены для матчевой стрельбы по бумажным мишеням на расстоянии до 10 метров.
+
+Пули Econ&amp;nbsp;хорошо сбалансированы и имеют хорошую стабильность полета.
+
+Данные пули отлично подойдут для развлекательной стрельбы на короткие дистанции.</description>
+			</offer>
+
+			<offer id="1396" available="true">
+				<url>http://zatvor.com.ua/catalog/priceli-dlya-pnevmatiki/opticheskie-pritselu-air-precision/opticheskiy-pritsel-air-precision-Premium-2-10x42-mm</url>
+				<price>9000</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1389</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/opticheskiy-pritsel-air-precision-Premium-2-10x42-mm.jpg</picture>
+				<delivery>true</delivery>
+				<name>Air Precision Premium 2-10x42 mm, 30mm tube, electricity switch</name>
+				<vendor>Air Precision</vendor>
+				<description>Air Precision Premium 2-10x42 mm - это прицел Премиум серии , который прошел тестирование на огнестрельном оружии в калибре 300 Lapua.mag.
+
+Данный прицел отлично подходит&amp;nbsp;для стрельбы на средние и дальние дистанции, а так же хорошо подойдет для охоты.
+
+Прицел&amp;nbsp;Air Precision Premium 2-10x42 mm имеет переменную кратность 2 - 10х и выходную линзу в 42 мм что позволит вести прицельную стрельбу на экстремальные дистанции, а так же оснащен светящейся прицельной сеткой классического типа German. 4</description>
+			</offer>
+
+			<offer id="1415" available="true">
+				<url>http://zatvor.com.ua/catalog/kreplenie-dlya-opticheskogo-pritsela/kreplenie-dlya-optiki-leapers/kreplenie-Leapers-UTG-MAX-STRENGTH-QD-TL-kolca--30mm--vysokoe</url>
+				<price>969</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1408</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/kreplenie-Leapers-UTG-MAX-STRENGTH-QD-TL-kolca--30mm--vysokoe.jpg</picture>
+				<delivery>true</delivery>
+				<name>Крепление Leapers UTG MAX STRENGTH QD TL кольца, 30мм, высокое</name>
+				<vendor>UTG Leapers</vendor>
+				<description>Кольца-крепление&amp;nbsp;Leapers UTG MAX STRENGTH 30 мм высокое имеют малый вес но при этом довольно прочные.
+
+Для удобности использования, кольца MAX STRENGTH &amp;nbsp;имеют быстросъемную систему. Внутри кольца обработаны специальным покрытием синтетического происхождения что не дает съезжать вашей оптике.
+
+Так же под кольцами имеется отверстие которое позволит при необходимости целиться с помощью мушки.</description>
+			</offer>
+
+			<offer id="1297" available="true">
+				<url>http://zatvor.com.ua/catalog/pnevmaticheskie-vintovki/pnevmaticheskie-vintovki-Hatsan/pnevmaticheskaya-vintovka-Hatsan-mod-125-Sniper</url>
+				<price>6650</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1257</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pnevmaticheskaya-vintovka-Hatsan-mod-125-Sniper.jpg</picture>
+				<delivery>true</delivery>
+				<name>Hatsan mod 125 Sniper</name>
+				<vendor>Hatsan</vendor>
+				<description>Hatsan mod 125 Sniper - винтовка переломного типа&amp;nbsp;от известной турецкой компании Хатсан.
+
+Данная винтовка выполнена в пластике. Имеет удобный приклад с регулируемой щекой, что позволит подстроить винтовку под себя и стрелять с комфортом.
+
+Винтовка&amp;nbsp;Hatsan 125 Sniper имеет источник энергии в виде витой пружины, которая взводится путем переламывания ствола.
+
+Благодаря системе поглощения отдачи SAS (запатентованной компанией Хатсан) винтовка поглощает основную отдачу&amp;nbsp;и тем самым повышает ваши результаты в стрельбе.
+
+Винтовка&amp;nbsp;Хатсан 125 снайпер отличный выбор&amp;nbsp;как для любителей так и для тренировочной стрельбы на дальние дистанции.</description>
+			</offer>
+
+			<offer id="1282" available="true">
+				<url>http://zatvor.com.ua/catalog/pnevmaticheskie-vintovki/pnevmaticheskie-vintovki-crosman/pnevmaticheskaya-vintovka-Crosman-Phantom-1000</url>
+				<price>2720</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1274</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pnevmaticheskaya-vintovka-Crosman-Phantom-1000.jpg</picture>
+				<delivery>true</delivery>
+				<name>Crosman Phantom 1000</name>
+				<vendor>Crosman</vendor>
+				<description>Crosman Phantom 1000 -&amp;nbsp;это элегантная на вид&amp;nbsp;и в то же время мощная винтовка. Источником энергии данной винтовки является Витая пружина, взвод которой производится переломом ствола.
+
+Данная винтовка обладает качественным нарезным с резиновым надульником. Фибероптические нити красного и зеленого цвета на мушке и прицельной планке помогут вам вести точную стрельбу на средние дистанции.
+
+Винтовка&amp;nbsp;Кросман Фантом хорошо подходит для любительской и спортивной стрельбы на средние дистанции.
+
+&amp;nbsp;
+</description>
+			</offer>
+
+			<offer id="1385" available="true">
+				<url>http://zatvor.com.ua/catalog/pnevmaticheskie-vintovki/pnevmaticheskie-vintovki-Gamo/pnevmaticheskaya-vintovka-Gamo-Zombie</url>
+				<price>4590</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1286</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pnevmaticheskaya-vintovka-Gamo-Zombie.jpg</picture>
+				<delivery>true</delivery>
+				<name> Gamo Zombie </name>
+				<vendor>Gamo</vendor>
+				<description>&amp;nbsp;Gamo Zombie - испанская пружинно-поршневая пневматическая винтовка. Имеет внушающий и стильный вид, сделана в пластике, а так же имеет качественный стальной ствол.
+
+Данная винтовка стреляет за счет витой пружины, которая взводится путем переламывания ствола.
+
+Приклад винтовки оснащен резиновым затыльником для гашения отдачи имеет удобную щеку, благодаря чему целится с винтовки гораздо удобнее.
+
+Винтовка&amp;nbsp;&amp;nbsp;Gamo Zombie отличный выбор для стрельбы на большие дистанции и для развлекательной стрельбы.
+
+&amp;nbsp;</description>
+			</offer>
+
+			<offer id="1380" available="true">
+				<url>http://zatvor.com.ua/catalog/pnevmaticheskie-pistoleti/pnevmaticheskie-pistoleti-asg/pnevmaticheskiy-revolver-ASG-Dan-Wesson-4</url>
+				<price>2550</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1314</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pnevmaticheskiy-revolver-ASG-Dan-Wesson-4.jpg</picture>
+				<delivery>true</delivery>
+				<name>ASG Dan Wesson 4'' Black </name>
+				<vendor>ASG</vendor>
+				<description>ASG Dan Wesson 4 Black&amp;nbsp;- это пневматическая копия знаменитого пистолета&amp;nbsp;Dan Wesson Firearms.
+
+Компания ASG сохранила в данной модели все мельчайшие детали, в плоть до гравировки и серийного номера.&amp;nbsp;В отличии от пистолетов с обоймой в револьвере&amp;nbsp;ASG 
+Dan Wesson 4 Black
+ имеется шестизарядный откидной барабан в который заряжаются металлические шарики.
+
+Револьвер&amp;nbsp;ASG Dan Wesson 4 Black сделан с оружейной стали, имеет регулируемые прицельные приспособления и обладает планкой вивера для установки целеуказателя.
+
+Источником энергии данной модели является баллон со сжатым газом CO 2.
+</description>
+			</offer>
+
+			<offer id="1335" available="true">
+				<url>http://zatvor.com.ua/catalog/pyli-dlya-pnevmatiki/pyli-dlya-pnevmatiki-jsb/pyli-dlya-pnevmatiki-jsb-predator-polymag</url>
+				<price>325</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1327</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pyli-dlya-pnevmatiki-jsb-predator-polymag.jpg</picture>
+				<delivery>true</delivery>
+				<name>JSB Predator Polymag </name>
+				<vendor>JSB</vendor>
+				<description>JSB Predator&amp;nbsp;Polymag - свинцовые пули, которые имеют уникальную конструкцию ( В полость головки пули установлена остроконечная полимерная вставка).
+
+Благодаря своей конструкции пули&amp;nbsp;Predator&amp;nbsp;Polymag отлично подойдут для охоты на мелкую дичь, так как имеют высокую экспансивность и хорошее проникающее действие.
+
+В коробке вы не найдете бракованных пуль так как все пули JSB отбираются в ручную.</description>
+			</offer>
+
+			<offer id="1348" available="true">
+				<url>http://zatvor.com.ua/catalog/pyli-dlya-pnevmatiki/pyli-dlya-pnevmatiki-Haendler-and-Natermann/pyli-dlya-pnevmatiki-FT-Trophy-Power</url>
+				<price>191</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1339</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pyli-dlya-pnevmatiki-FT-Trophy-Power.jpg</picture>
+				<delivery>true</delivery>
+				<name>H&amp;N FT Trophy Power 0,57 г, 4,5 мм</name>
+				<vendor>Haendler &amp; Natermann </vendor>
+				<description>FT Trophy Power - пули с медным покрытием для пневматических винтовок.
+
+Преимущество данных пуль в повышении скорости на 20% , высокая кучность, а так же благодаря медному покрытию ствол не освинцовывается.
+
+Данные пули так же имеют хорошие баллистические показатели и хорошее проникающее действие за счет своей твердости.
+
+Пули&amp;nbsp;FT Trophy Power отлично подойдут как для развлекательной так и для целевой стрельбы на дальние расстояния.</description>
+			</offer>
+
+			<offer id="1397" available="true">
+				<url>http://zatvor.com.ua/catalog/priceli-dlya-pnevmatiki/opticheskie-pritselu-air-precision/opticheskiy-pritsel-air-precision-Premium-3-12x42-mm</url>
+				<price>5990</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1389</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/opticheskiy-pritsel-air-precision-Premium-3-12x42-mm.jpg</picture>
+				<delivery>true</delivery>
+				<name>Air Precision Premium 3-12x42 mm, 30mm tube, electricity switch</name>
+				<vendor>Air Precision</vendor>
+				<description>Air Precision Premium 3-12x42 mm - это оптический прицел Премиум серии , который прошел тестирование на огнестрельном оружии в калибре 300 Lapua.mag. и имеет хорошую устойчивость к отдаче.
+
+Данный прицел отлично подходит&amp;nbsp;для стрельбы на&amp;nbsp;дальние дистанции, а так же хорошо подойдет для охоты.
+
+Прицел&amp;nbsp;Air Precision Premium 3-12x42 mm имеет переменную кратность 2 - 10х и дальнюю линзу&amp;nbsp;в 42 мм что позволяет вести точную прицельную стрельбу на экстремальные дистанции, а так же оснащен прицельной сеткой классического типа German. 4 с подсветкой, которую отлично видно в пасмурную погоду.
+
+&amp;nbsp;</description>
+			</offer>
+
+			<offer id="1298" available="true">
+				<url>http://zatvor.com.ua/catalog/pnevmaticheskie-vintovki/pnevmaticheskie-vintovki-Hatsan/pnevmaticheskaya-vintovka-Hatsan-mod-125-Sniper-Vortex</url>
+				<price>7050</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1257</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pnevmaticheskaya-vintovka-Hatsan-mod-125-Sniper-Vortex.jpg</picture>
+				<delivery>true</delivery>
+				<name>Hatsan mod 125 Sniper Vortex</name>
+				<vendor>Hatsan</vendor>
+				<description>Hatsan mod 125 Sniper Vortex - пневматическая винтовка магнум класса от известного производителя Хатсан.
+
+Данная винтовка выполнена в пластике, имеет качественный нарезной ствол, что не мало важно для винтовок класса &amp;quot;Магнум&amp;quot;.
+
+Приклад винтовки Hatsan 125 Sniper Vortex оснащен резиновым затыльником и удобной регулируемой щекой, благодаря которой вы сможете подстроить винтовку под себя.
+
+Спуск курка регулируем и работает по запатентованной системе Quattro Trigger ( Хатсан)
+
+Данная винтовка - хороший выбор для любителей мощности и стрельбы на дальние дистанции.
+</description>
+			</offer>
+
+			<offer id="1283" available="true">
+				<url>http://zatvor.com.ua/catalog/pnevmaticheskie-vintovki/pnevmaticheskie-vintovki-crosman/pnevmaticheskaya-vintovka-Crosman-Comrade-AK</url>
+				<price>1970</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1274</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pnevmaticheskaya-vintovka-Crosman-Comrade-AK.jpg</picture>
+				<delivery>true</delivery>
+				<name>Crosman Comrade AK</name>
+				<vendor>Crosman</vendor>
+				<description>Пневматическая винтовка&amp;nbsp;Crosman Comrade AK - отличная пневматическая копия легендарного автомата АКС74У.
+
+Crosman Comrade AK создан американской компанией Кросман, практически полностью выполнен в пластике и проработан о мелких деталей.&amp;nbsp;
+
+Crosman Comrade AK имеет съемный приклад , а так же магазин который пристегивается так же как у Автомата Калашникова&amp;nbsp;
+
+Шарики ВВ загружаются сверху в маленький отрывающийся лючок.
+
+Источником энергии винтовки&amp;nbsp;Comrade AK является 12 граммовый балон СО2 который вставляется в рукоять.
+
+Винтовка отлично подойдет для развлекательной стрельбы.</description>
+			</offer>
+
+			<offer id="1386" available="true">
+				<url>http://zatvor.com.ua/catalog/pnevmaticheskie-vintovki/pnevmaticheskie-vintovki-Gamo/pnevmaticheskaya-vintovka-Gamo-Whisper-X</url>
+				<price>5950</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1286</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pnevmaticheskaya-vintovka-Gamo-Whisper-X.jpg</picture>
+				<delivery>true</delivery>
+				<name>Gamo Whisper X</name>
+				<vendor>Gamo</vendor>
+				<description>Данная винтовка имеет качественный нарезной ствол, благодаря чему винтовка может точно стрелять на дальние дистанции.
+
+Винтовка&amp;nbsp;Gamo Whisper X имеет удобный приклад с пистолетной рукоятью и удобной щекой, а так же имеет резиновый затыльник поглощающий отдачу. Благодаря этому винтовка довольно удобная и надежно держится в руках.
+
+Пневматическая винтовка&amp;nbsp;Gamo Whisper X - отличный выбор для стрельбу на дальние дистанции и для развлекательной стрельбы.</description>
+			</offer>
+
+			<offer id="1381" available="true">
+				<url>http://zatvor.com.ua/catalog/pnevmaticheskie-pistoleti/pnevmaticheskie-pistoleti-asg/pnevmaticheskiy-pistolet-ASG-Bersa-Thunder-9-Pro</url>
+				<price>1250</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1314</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pnevmaticheskiy-pistolet-ASG-Bersa-Thunder-9-Pro.jpg</picture>
+				<delivery>true</delivery>
+				<name>ASG Bersa Thunder 9 Pro </name>
+				<vendor>ASG</vendor>
+				<description>ASG Bersa Thunder 9 Pro - это пневматический пистолет, который является детальной копией ( сделанной по лицензии Аргентинской компании Bersa) пистолета&amp;nbsp;Thunder 9 Pro.
+
+Данный пистолет сделан из качественного и твердого пластика, все детали проработаны до мельчайших тонкостей.
+
+Пистолет стреляет за счет баллона СО 2 который установлен в задней части рукояти. Пистолет имеет не полноразмерный магазин, который извлекается благодаря кнопке на рукояти.
+
+Пистолет&amp;nbsp;ASG Bersa Thunder 9 Pro - хороший выбор для развлекательной стрельбы.
+</description>
+			</offer>
+
+			<offer id="1336" available="true">
+				<url>http://zatvor.com.ua/catalog/pyli-dlya-pnevmatiki/pyli-dlya-pnevmatiki-jsb/pyli-dlya-pnevmatiki-JSB-Exact-Monster</url>
+				<price>289</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1327</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pyli-dlya-pnevmatiki-JSB-Exact-Monster.jpg</picture>
+				<delivery>true</delivery>
+				<name>JSB Exact Monster </name>
+				<vendor>JSB</vendor>
+				<description>JSB Exact Monster - Это тяжелые свинцовые пули которые отлично подойдут для винтовок магнум класса.
+
+Особая форма пули и вес в 0,87 позволяет делать выстрел на экстремально дальние дистанции от 50 до 200 метров, а благодаря хорошему распределению веса и высокому качеству свинца пуля отлично нарезается в стволе и имеет хорошую настильность и точность.
+
+Пули&amp;nbsp;JSB Exact Monster отбираются в ручную и не отличаются весом как более дешевые пули.</description>
+			</offer>
+
+			<offer id="1349" available="true">
+				<url>http://zatvor.com.ua/catalog/pyli-dlya-pnevmatiki/pyli-dlya-pnevmatiki-Haendler-and-Natermann/pyli-dlya-pnevmatiki-FT-Trophy-Green</url>
+				<price>294</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1339</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pyli-dlya-pnevmatiki-FT-Trophy-Green.jpg</picture>
+				<delivery>true</delivery>
+				<name>H&amp;N FT Trophy Green 0,36 г, 4,5 мм</name>
+				<vendor>Haendler &amp; Natermann </vendor>
+				<description>H&amp;amp;N FT Trophy Green - это легкие бессвинцовые пули которые выплавлены из оловянного сплава, благодаря чему ствол не освинцовывается.
+
+Данные пули являются сверх скоростными и отлично подойдут для винтовок с малой дульной энергией, но при этом имеют хорошую пробивную способность.
+
+H&amp;amp;N FT Trophy Green - отличный выбор для стрельбы со слабой пневматики или для развлекательной стрельбы на короткие и средние дистанции.</description>
+			</offer>
+
+			<offer id="1387" available="true">
+				<url>http://zatvor.com.ua/catalog/pnevmaticheskie-vintovki/pnevmaticheskie-vintovki-Hatsan/pnevmaticheskaya-vintovka-Hatsan-Striker-Edge</url>
+				<price>2169</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1257</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pnevmaticheskaya-vintovka-Hatsan-Striker-Edge.png</picture>
+				<delivery>true</delivery>
+				<name>Hatsan Striker Edge</name>
+				<vendor>Hatsan</vendor>
+				<description>Пневматическая пружинно-поршневая винтовка&amp;nbsp;Hatsan Striker Edge является одной из серии&amp;nbsp;Striker. Данная винтовка выполнена в пластике и имеет качественный нарезной ствол.
+
+Данная винтовка обладает достаточной мощностью для стрельбы на дальние дистанции но при это имеет совсем не большой вес в 2,9 кг.
+
+Пневматическая винтовка&amp;nbsp;Hatsan Striker Edge имеет удобную пистолетную рукоять и надежно держится в руке, а так же винтовка оснащена открытыми прицельными приспособлениями ( Прицельная планка и мушка).
+
+Хатсан Страйкер Эйдж - лучший выбор для начинающих стрелков.</description>
+			</offer>
+
+			<offer id="1245" available="true">
+				<url>http://zatvor.com.ua/catalog/pnevmaticheskie-vintovki/pnevmatichesdkie-vintovki-Norica/pnevmaticheskaya-vintovka-Norica-Dream-Hunter</url>
+				<price>6500</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1259</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pnevmaticheskaya-vintovka-Norica-Dream-Hunter.jpg</picture>
+				<delivery>true</delivery>
+				<name>Norica Dream Hunter</name>
+				<vendor>Norica</vendor>
+				<description>Norica Dream Hunter - это пружинно-поршневая винтовка от известного испанского производителя Норика.
+
+Данная винтовка выполнена из твердого пластика, устойчивого к воздействию внешней среды ,а нарезной ствол сделан из качественной стали, что обеспечит точную стрельбу.
+
+Источником энергии винтовки&amp;nbsp;Dream Hunter является витая пружина, которая взводится при помощи подствольного рычага. Жесткая конструкция винтовки Норика Дрим Хантер благоприятно влияет на точность стрельбы, а мощность винтовки позволит стрелять на дальние дистанции.
+
+Приклад винтовки&amp;nbsp;Dream Hunter оснащен резиновым затыльником, который успешно гасит отдачу и повышает комфорт стрельбы.
+
+Винтовка Дрим Хантер хорошо подходит для спортивной стрельбы на дальние дистанции.</description>
+			</offer>
+
+			<offer id="1284" available="true">
+				<url>http://zatvor.com.ua/catalog/pnevmaticheskie-vintovki/pnevmaticheskie-vintovki-crosman/pnevmaticheskaya-vintovka-Crosman-Vantage-NP</url>
+				<price>3990</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1274</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pnevmaticheskaya-vintovka-Crosman-Vantage-NP.jpg</picture>
+				<delivery>true</delivery>
+				<name>Crosman Vantage NP + оптический прицел</name>
+				<vendor>Crosman</vendor>
+				<description>Crosman Vantage NP - одна из новых пневматических винтовок от компании Crosman , которая имеет высокую начальную скорость и отлично подойдет для стрельбы на средние и дальние дистанции.
+
+Источником энергии в данной винтовке является ее газовая пружина заполненная азотом. Данная пружина имеет огромное преимущество по сравнению с Витой, так как ее ресурс увеличен в разы, винтовка может долго находится во взведенном состоянии и при этом не теряя своих характеристик.
+
+Винтовка&amp;nbsp;Crosman Vantage NP имеет удобное ложе из бука и имеет удобную щеку Монте-Карло который оснащен резиновым затыльником компенсирующим отдачу.
+
+в комплект к винтовке&amp;nbsp;Crosman Vantage NP так же водит оптический прицел 4x32&amp;nbsp;
+
+&amp;nbsp;</description>
+			</offer>
+
+			<offer id="1382" available="true">
+				<url>http://zatvor.com.ua/catalog/pnevmaticheskie-pistoleti/pnevmaticheskie-pistoleti-asg/pnevmaticheskiy-pistolet-ASG-Bersa-BP9CC</url>
+				<price>2700</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1314</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pnevmaticheskiy-pistolet-ASG-Bersa-BP9CC.jpg</picture>
+				<delivery>true</delivery>
+				<name>ASG Bersa BP9CC </name>
+				<vendor>ASG</vendor>
+				<description>ASG Bersa BP9CC - является точной копией пистолета&amp;nbsp;Bersa BP9CC. Компания АСГ производит свою продукцию исключительно по лицензии, поэтому данный пистолет имеет точное сходство с оригинальным боевым оружием в плоть до маркировки и серийного номера.
+
+Пистолет&amp;nbsp;ASG Bersa BP9CC стреляет за счет стандартного двенадцати граммового баллона СО 2. С одного баллона выходит около 50 - 60 выстрелов.
+
+Пистолет имеет магазин на 20 пуль который установлен в рукояти и извлекается с помощью специального кнопочного механизма.
+
+Пневматический пистолет&amp;nbsp;ASG Bersa BP9CC хорошо подойдет для развлекательной стрельбы.</description>
+			</offer>
+
+			<offer id="1337" available="true">
+				<url>http://zatvor.com.ua/catalog/pyli-dlya-pnevmatiki/pyli-dlya-pnevmatiki-jsb/pyli-dlya-pnevmatiki-jsb-Exact-Beast-Diabolo</url>
+				<price>193</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1327</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pyli-dlya-pnevmatiki-jsb-Exact-Beast-Diabolo.jpg</picture>
+				<delivery>true</delivery>
+				<name> JSB Exact Beast Diabolo</name>
+				<vendor>JSB</vendor>
+				<description>&amp;nbsp;JSB Exact Beast Diabolo - тяжелые свинцовые пули, отлично подойдут для винтовок класса &amp;quot;Супер магнум&amp;quot;. Благодаря своей форме и весу (1,05 гр) данные пули отлично подойдут для стрельбы на дальние дистанции от 50 до 200 метров.
+
+Пули&amp;nbsp;Exact Beast Diabolo сделаны из качественного свинца и отобраны в ручную, благодаря чему вы не обнаружите бракованных пуль в упаковке.
+
+Пули отличаются высокой экспансивностью и хорошей стабильностью полета.</description>
+			</offer>
+
+			<offer id="1350" available="true">
+				<url>http://zatvor.com.ua/catalog/pyli-dlya-pnevmatiki/pyli-dlya-pnevmatiki-Haendler-and-Natermann/pyli-dlya-pnevmatiki-Baracuda-Power</url>
+				<price>210</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1339</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pyli-dlya-pnevmatiki-Baracuda-Power.jpg</picture>
+				<delivery>true</delivery>
+				<name> H&amp;N Baracuda Power 0,69 г, 4,5 мм</name>
+				<vendor>Haendler &amp; Natermann </vendor>
+				<description>Baracuda Power - тяжелые и очень аэродинамичные пули для пневматики. Данные пули имеют обмедненное покрытие, не освинцовывают ствол и имеют хорошую пробивную способность так как твердость пули на 20% выше чем у обычных свинцовых пуль.
+
+Пули&amp;nbsp;Baracuda Power отлично подойдут для стрельбы на дальние дистанции, а так же для стрельбы по мишеням.</description>
+			</offer>
+
+			<offer id="1246" available="true">
+				<url>http://zatvor.com.ua/catalog/pnevmaticheskie-vintovki/pnevmatichesdkie-vintovki-Norica/Norica-Dream-Rider</url>
+				<price>6650</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1259</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/Norica-Dream-Rider.jpg</picture>
+				<delivery>true</delivery>
+				<name>Norica Dream Rider GRS</name>
+				<vendor>Norica</vendor>
+				<description>Norica Dream Rider GRS - это пневматическая винтовка с фиксированным стволом. Источником энергии является газовая пружина&amp;nbsp;которая взводится при помощи рычага.
+
+Благодаря фиксированному стволу, винтовка Dream Rider имеет хорошую точность и кучность. Так же ствол винтовки выполнен из высококачественной стали, что не мало важно для винтовок магнум класса.
+
+После установки газовой пружины на винтовку Дрим Райдер, было замечено повышение мощности, меньше дребезга и уменьшилась отдача.
+
+Так же винтовка Dream Rider&amp;nbsp;имеет резиновый затыльник на прикладе, который успешно гасит отдачу винтовки.</description>
+			</offer>
+
+			<offer id="1285" available="true">
+				<url>http://zatvor.com.ua/catalog/pnevmaticheskie-vintovki/pnevmaticheskie-vintovki-crosman/pnevmaticheskaya-vintovka-Crosman-Vantage</url>
+				<price>3480</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1274</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pnevmaticheskaya-vintovka-Crosman-Vantage.jpg</picture>
+				<delivery>true</delivery>
+				<name>Crosman Vantage</name>
+				<vendor>Crosman</vendor>
+				<description>Crosman Vantage - это надежная, пружинно-поршневая винтовка классическая винтовка от компании Crosman. Винтовка имеет качественный нарезной ствол и приятный на ощупь приклад выполнен из дерева, на котором установлен резиновый затыльник для компенсации отдачи.
+
+Так же винтовка&amp;nbsp;Crosman Vantage укомплектована оптическим прицелом Center Point с 4x кратным увеличением ( диаметр обьектива 32 мм ).что позволяет вести стрельбу на дальние дистанции.
+
+Пневматическая винтовка&amp;nbsp;Crosman Vantage отлично подходит для развлекательной стрельбы, а так же для полевой стрельбы по бумажным мишеням.
+
+&amp;nbsp;
+</description>
+			</offer>
+
+			<offer id="1383" available="true">
+				<url>http://zatvor.com.ua/catalog/pnevmaticheskie-pistoleti/pnevmaticheskie-pistoleti-asg/ASG-CZ-SP-01-Shadow-4-5-mm</url>
+				<price>1500</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1314</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/ASG-CZ-SP-01-Shadow-4-5-mm.jpg</picture>
+				<delivery>true</delivery>
+				<name>ASG CZ SP-01 Shadow </name>
+				<vendor>ASG</vendor>
+				<description>ASG CZ SP-01 Shadow &amp;nbsp;- &amp;nbsp;копия&amp;nbsp;боевого чешского пистолета&amp;nbsp;CZ SP-01 Shadow, которая сделана по лицензии компании Чешська Зброёвка. Данный пистолет сделан качественно и имеет полное сходство с оригиналом.
+
+Данный пистолет имеет не большой вес в&amp;nbsp;595 грамм, стреляет с помощью стандартного 12-ти граммового баллона СО 2.
+
+Так же пистолет&amp;nbsp;ASG CZ SP-01 Shadow имеет 21 зарядный магазин, который можно извлечь с помощью кнопки на рукоятке пистолета.
+
+Пневматический пистолет ASG CZ SP-01 Shadow &amp;nbsp;- отличный выбор для развлекательной стрельбы.
+</description>
+			</offer>
+
+			<offer id="1338" available="true">
+				<url>http://zatvor.com.ua/catalog/pyli-dlya-pnevmatiki/pyli-dlya-pnevmatiki-jsb/pyli-dlya-pnevmatiki-JSB-Polymag-Shorts</url>
+				<price>346</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1327</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pyli-dlya-pnevmatiki-JSB-Polymag-Shorts.jpg</picture>
+				<delivery>true</delivery>
+				<name>JSB Polymag Shorts</name>
+				<vendor>JSB</vendor>
+				<description>JSB Polymag Shorts - тяжелые пули с уникальной конструкцией ( В полость головки установлена острая полимерная вставка) специально разрабатывались для охоты на мелкую дичь,а также на вредителей.
+
+Пули имеют хорошее распределение веса и сделаны из качественного свинца, что обеспечивает высокую точность и стабильность полета пули, а так же высокую проникающую способность.
+
+Пули&amp;nbsp;JSB Polymag Shorts отбираются в ручную что избавит вас от брака пуль в упаковке.
+</description>
+			</offer>
+
+			<offer id="1351" available="true">
+				<url>http://zatvor.com.ua/catalog/pyli-dlya-pnevmatiki/pyli-dlya-pnevmatiki-Haendler-and-Natermann/pyli-dlya-pnevmatiki-Baracuda-Hunter</url>
+				<price>278</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1339</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pyli-dlya-pnevmatiki-Baracuda-Hunter.jpg</picture>
+				<delivery>true</delivery>
+				<name>H&amp;N Baracuda Hunter 4,5 мм 0,67г</name>
+				<vendor>Haendler &amp; Natermann </vendor>
+				<description>Baracuda Hunter - это тяжелые свинцовые пули для пневматического оружия, которые имеют уникальную форму. Особенностью данных пуль&amp;nbsp;является форма головки, которая имеет углубление в ней.
+
+Благодаря данной конструкции пули&amp;nbsp;Baracuda Hunter имеют хорошие останавливающие характеристики, так как при попадании в цель пуля раскрывается подобно цветку и наносит максимальный урон цели.
+
+Пули Барракуда Хантер отлично показывают себя на охоте на малую дичь.</description>
+			</offer>
+
+			<offer id="1295" available="true">
+				<url>http://zatvor.com.ua/catalog/pnevmaticheskie-vintovki/pnevmaticheskie-vintovki-crosman/pnevmaticheskaya-vintovka-Crosman-Benjamin-Titan-NP</url>
+				<price>5250</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1274</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pnevmaticheskaya-vintovka-Crosman-Benjamin-Titan-NP.jpg</picture>
+				<delivery>true</delivery>
+				<name>Crosman Benjamin Titan NP + оптический прицел</name>
+				<vendor>Crosman</vendor>
+				<description>Crosman Benjamin Titan NP - пневматическая винтовка переломного типа, которая относится к винтовкам класса &amp;quot;Магнум&amp;quot;. Данная винтовка выполнена в дереве. Стальной нарезной ствол сделан из высококачественного сырья.
+
+Винтовка&amp;nbsp;Crosman Benjamin Titan NP имеет удобный приклад и щеку Монте Карло, а так же пистолетную рукоять, что значительно повышает комфорт стрельбы. Данный приклад оснащен эргономичным резиновым затыльником который успешно гасит отдачу при выстреле.
+
+Источником энергии винтовки&amp;nbsp;Crosman Benjamin Titan NP является газовая пружина системы Nitro Piston ( запатентована компанией Кросман )
+
+После установки ГП на винтовку было замечено значительный прирос мощности, винтовка не дребезжит и вырос ресурс винтовки в целом.
+
+Так же винтовка Crosman Titan NP укомплектована оптическим прицелом Center Poin 4x32</description>
+			</offer>
+
+			<offer id="1352" available="true">
+				<url>http://zatvor.com.ua/catalog/pyli-dlya-pnevmatiki/pyli-dlya-pnevmatiki-Haendler-and-Natermann/pyli-dlya-pnevmatiki-Baracuda-Hunter-Extreme</url>
+				<price>298</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1339</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pyli-dlya-pnevmatiki-Baracuda-Hunter-Extreme.jpg</picture>
+				<delivery>true</delivery>
+				<name>H&amp;N Baracuda Hunter Extreme 4,5 мм 0,62г</name>
+				<vendor>Haendler &amp; Natermann </vendor>
+				<description>Baracuda Hunter Extreme - свинцовые пули для пневматики, которая имеет уникальную форму головки. Головка пули имеет крестообразную глубокую выемку, которая обеспечивает хорошие аэродинамические показатели и большое шоковое воздействие.
+
+При попадании в цель пули&amp;nbsp;Hunter Extreme раскрываются подобно цветку и оставляют на месте попадания большую разрывную дырку.
+
+Данные пули - отличный выбор для любителей охоты на малую дичь и для спортивной стрельбы на дальние расстояния.
+
+&amp;nbsp;</description>
+			</offer>
+
+			<offer id="1296" available="true">
+				<url>http://zatvor.com.ua/catalog/pnevmaticheskie-vintovki/pnevmaticheskie-vintovki-crosman/pnevmaticheskaya-vintovka-Crosman-Genesis_NP</url>
+				<price>4590</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1274</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pnevmaticheskaya-vintovka-Crosman-Genesis_NP.jpg</picture>
+				<delivery>true</delivery>
+				<name>Crosman Genesis NP + пули Crosman 0,68 Field Target 1250 шт.</name>
+				<vendor>Crosman</vendor>
+				<description>Crosman Genesis NP - классическая винтовка &amp;quot;переломка&amp;quot;&amp;nbsp;от известной компании Кросман. Данная винтовка выполнена в дереве, имеет нарезной ствол который сделан из высококачественной стали и&amp;nbsp;интегрированный глушитель в стволе.
+
+Crosman Genesis NP имеет газовую пружину Nitro Piston (Запатентована компанией Кросман)&amp;nbsp;вместо обычной витой, что делает винтовку более мощной и точной.
+
+Так же в комплект к винтовке идет оптический прицел Center Point 4x32
+
+Винтовка&amp;nbsp;Crosman Genesis NP - хороший выбор как для начинающих стрелков так и для профессионалов.</description>
+			</offer>
+
+			<offer id="1354" available="true">
+				<url>http://zatvor.com.ua/catalog/pyli-dlya-pnevmatiki/pyli-dlya-pnevmatiki-Haendler-and-Natermann/pyli-dlya-pnevmatiki-Baracuda-Magnum_4_5</url>
+				<price>264</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1339</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pyli-dlya-pnevmatiki-Baracuda-Magnum_4_5.jpg</picture>
+				<delivery>true</delivery>
+				<name>H&amp;N Baracuda Magnum 4,5 мм 1,06г</name>
+				<vendor>Haendler &amp; Natermann </vendor>
+				<description>Baracuda Magnum - сверхтяжелые свинцовые пули для пневматики, предназначены для винтовок супер магнум класса.
+
+Данные пули хорошо себя показываю на стрельбе на дальние дистанции. Благодаря весу пули (1,06 гр) и хорошему распределению веса, пуля имеет хорошую настильность и стабильность, а так же имеет хорошую точность даже при боковом ветре.
+
+Поверхность пули&amp;nbsp;Baracuda Magnum гладкая и благодаря своей смазке не освинцовывает ствол.
+
+&amp;nbsp;</description>
+			</offer>
+
+			<offer id="1355" available="true">
+				<url>http://zatvor.com.ua/catalog/pyli-dlya-pnevmatiki/pyli-dlya-pnevmatiki-Haendler-and-Natermann/pyli-dlya-pnevmatiki-Rabbit-Magnum-Power</url>
+				<price>278</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1339</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pyli-dlya-pnevmatiki-Rabbit-Magnum-Power.jpg</picture>
+				<delivery>true</delivery>
+				<name>H&amp;N Rabbit Magnum Power 4,5 мм 1,04 г.</name>
+				<vendor>Haendler &amp; Natermann </vendor>
+				<description>Rabbit Magnum Power - тяжелые обмедненные пули (1,04 гр)&amp;nbsp;, которые отлично подойдут для мощных винтовок.&amp;nbsp;
+
+Благодаря обмедненному сплаву пули имеют на 20% выше скорость чем обычные свинцовые пули, а так же не загрязняют ствол.
+
+Так же пули&amp;nbsp;Rabbit Magnum Power более твердые, что обеспечит более глубокую проникаемую способность и экспансивность.
+
+Данные пули - отличный выбор для охоты на пернатую дичь, а так же для целевой стрельбы на большие расстояния.</description>
+			</offer>
+
+			<offer id="1356" available="true">
+				<url>http://zatvor.com.ua/catalog/pyli-dlya-pnevmatiki/pyli-dlya-pnevmatiki-Haendler-and-Natermann/pyli-dlya-pnevmatiki-Sniper-Light</url>
+				<price>278</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1339</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pyli-dlya-pnevmatiki-Sniper-Light.jpg</picture>
+				<delivery>true</delivery>
+				<name>H&amp;N Sniper Light 0,49г, 4,5 мм</name>
+				<vendor>Haendler &amp; Natermann </vendor>
+				<description>H&amp;amp;N Sniper Light - свинцовая легкая пуля (0,49 гр) имеет бочкообразную форму и была разработана специально для соревнований с винтовками имеющими дульную энергию не более 26 Дж.
+
+Пули&amp;nbsp;Sniper Light отлично себя показывают на коротких и средних дистанциях, а так же подойдут для охоты на мелкую дичь.
+
+Так же в серию пуль&amp;nbsp;Sniper входят такие пули как:&amp;nbsp;Sniper Medium и Sniper Magnum
+
+&amp;nbsp;</description>
+			</offer>
+
+			<offer id="1252" available="true">
+				<url>http://zatvor.com.ua/catalog/pnevmaticheskie-vintovki/pnevmatichesdkie-vintovki-Norica/pnevmaticheskaya-vintovka-Norica-Titan</url>
+				<price>3150</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1259</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pnevmaticheskaya-vintovka-Norica-Titan.jpg</picture>
+				<delivery>true</delivery>
+				<name>Norica Titan</name>
+				<vendor>Norica</vendor>
+				<description>Norica Titan - бюджетная пружинно-поршневая винтовка переломного типа. Продуманная конструкция избавила винтовку лишнего дребезжания и других неприятных звуков. Винтовка Норика Титан выполнена в пластике и имеет приятный дизайн.&amp;nbsp;
+
+На цевье винтовки имеются насечки благодаря которым винтовка надежно лежит в руках. Благодаря небольшой мощности ( 190 м/с) винтовка Norica Titan&amp;nbsp;стреляет не громко и имеет небольшую отдачу.
+
+Винтовка&amp;nbsp;Norica Titan - отличный выбор для любительской стрельбы на средние дистанции.
+</description>
+			</offer>
+
+			<offer id="1357" available="true">
+				<url>http://zatvor.com.ua/catalog/pyli-dlya-pnevmatiki/pyli-dlya-pnevmatiki-Haendler-and-Natermann/pyli-dlya-pnevmatiki-Sniper-Magnum-4-5mm</url>
+				<price>187</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1339</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pyli-dlya-pnevmatiki-Sniper-Magnum-4-5mm.jpg</picture>
+				<delivery>true</delivery>
+				<name>H&amp;N Sniper Magnum 0,97г, 4,5 мм</name>
+				<vendor>Haendler &amp; Natermann </vendor>
+				<description>Sniper Magnum - тяжелая свинцовая пуля (0,97 гр), является противоположностью легкой пули&amp;nbsp;Sniper Light, но имеет схожую бочковую форму.
+
+Данные пули разработаны для соревновательной стрельбы на дальние дистанции и отлично подойдут для винтовок мощностью выше 16 Дж.
+
+Пуля&amp;nbsp;Sniper Magnum имеет хорошую настильность и стабильность благодаря своей равномерной бочкообразной конструкции.</description>
+			</offer>
+
+			<offer id="1253" available="true">
+				<url>http://zatvor.com.ua/catalog/pnevmaticheskie-vintovki/pnevmatichesdkie-vintovki-Norica/pnevmaticheskaya-vintovka-Norica-Dragon</url>
+				<price>3980</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1259</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pnevmaticheskaya-vintovka-Norica-Dragon.jpg</picture>
+				<delivery>true</delivery>
+				<name>Norica Dragon</name>
+				<vendor>Norica</vendor>
+				<description>Norica dragon - пример того, как полагается выглядеть не дорогой но очень качественной пневматической винтовке. Данная винтовка выполнена в твердом, качественном пластике и имеет стальной&amp;nbsp;нарезной ствол, сделан из высококачественной стали.
+
+Винтовка&amp;nbsp;Норика Драгон&amp;nbsp;имеет удобный и эргономичный приклад со щекой Мотне-Карло, на котором установлен резиновый затыльник который успешно гасит отдачу.
+
+Благодаря качественному стволу винтовка&amp;nbsp;Norica dragon показывает хорошую кучность и высокую скорость полета пули.
+
+Винтовка Норика Драгон - хороший выбор для любителей стрельбы на большие дистанции.
+</description>
+			</offer>
+
+			<offer id="1358" available="true">
+				<url>http://zatvor.com.ua/catalog/pyli-dlya-pnevmatiki/pyli-dlya-pnevmatiki-Haendler-and-Natermann/pyli-dlya-pnevmatiki-Hornet</url>
+				<price>473</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1339</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pyli-dlya-pnevmatiki-Hornet.jpg</picture>
+				<delivery>true</delivery>
+				<name>H&amp;N Hornet 0,57г, 4,5 мм</name>
+				<vendor>Haendler &amp; Natermann </vendor>
+				<description>H&amp;amp;N Hornet - свинцовая охотничья пуля средней тяжести (0,57 гр), отличается своей уникальной конструкцией. В полости головки установлено латунное острие, которое обеспечивает пули большую проникаемость в цель, высокую экспансивность и останавливающее действие.
+
+Благодаря гладкой поверхности и хорошему распределению центра тяжести, данные пули имеют высокую стабильность и хорошую настильность полета.
+
+Пули&amp;nbsp;Hornet - лучший выбор для охоты на средних дистанциях на пернатую дичь.
+
+&amp;nbsp;</description>
+			</offer>
+
+			<offer id="1254" available="true">
+				<url>http://zatvor.com.ua/catalog/pnevmaticheskie-vintovki/pnevmatichesdkie-vintovki-Norica/pnevmaticheskaya-vintovka-Norica-Storm</url>
+				<price>8990</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1259</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pnevmaticheskaya-vintovka-Norica-Storm.jpg</picture>
+				<delivery>true</delivery>
+				<name>Norica Storm</name>
+				<vendor>Norica</vendor>
+				<description>Norica Storm - пружинно-поршневая винтовка которая относится к классу &amp;quot;магнум&amp;quot;. Винтовка исполнена в дереве и имеет качественный нарезной ствол. Источником энергии данной винтовки является витая пружина, которая взводится путем переламывания ствола.
+
+Так же винтовка&amp;nbsp;Norica Storm имеет&amp;nbsp;удобную щеку Моте-Карло , на прикладе установленный резиновый затыльник, который успешно гасит отдачу.
+
+Винтовка Норика Шторм - хороший выбор для любителей мощности, а так же для стрельбы на дальние дистанции.
+</description>
+			</offer>
+
+			<offer id="1359" available="true">
+				<url>http://zatvor.com.ua/catalog/pyli-dlya-pnevmatiki/pyli-dlya-pnevmatiki-Haendler-and-Natermann/pyli-dlya-pnevmatiki-Prometheus</url>
+				<price>267</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1339</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pyli-dlya-pnevmatiki-Prometheus.gif</picture>
+				<delivery>true</delivery>
+				<name>H&amp;N Prometheus 0,39г, 4,5 мм</name>
+				<vendor>Haendler &amp; Natermann </vendor>
+				<description>H&amp;amp;N Prometheus - бессвинцовые легкие&amp;nbsp;пули (0,39 гр) предназначены для развлекательной стрельбы на короткие дистанции из винтовок с малой дульной энергией.
+
+Пули имеют полусферическую форму и равномерное распределение центра тяжести.
+
+Пули&amp;nbsp;Prometheus лучше всего подойдут для развлекательной стрельбы или для стрельбы на короткие дистанции с винтовок со слабо дульной энергией.
+
+&amp;nbsp;</description>
+			</offer>
+
+			<offer id="1360" available="true">
+				<url>http://zatvor.com.ua/catalog/pyli-dlya-pnevmatiki/pyli-dlya-pnevmatiki-Haendler-and-Natermann/pyli-dlya-pnevmatiki-Apollo</url>
+				<price>278</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>1339</categoryId>
+				<picture>http://zatvor.com.ua/media/images/big/pyli-dlya-pnevmatiki-Apollo.jpg</picture>
+				<delivery>true</delivery>
+				<name> H&amp;N Apollo 0,53г 4,5 мм</name>
+				<vendor>Haendler &amp; Natermann </vendor>
+				<description>&amp;nbsp;H&amp;amp;N Apollo - данные бессвинцовые пули имеют средний вес (0,53 гр) и подойдут для винтовок с дульной энергией до 16 Дж и подойдут как для стрельбы с винтовок имеющим Чок (сужением диаметра ствола ближе к концу) так и без него.
+
+Лучше всего пули&amp;nbsp;&amp;nbsp;H&amp;amp;N Apollo показывают себя при стрельбе на дистанцию до 20 метров.
+
+Пули&amp;nbsp;Apollo - хороший выбор как для спортивной стрельбы на короткие дистанции так и для развлекательной стрельбы.
+</description>
+			</offer>
+
+		</offers>
+	</shop>
+</yml_catalog>
