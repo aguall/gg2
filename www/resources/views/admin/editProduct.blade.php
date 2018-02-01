@@ -12,10 +12,9 @@
 			</ol>
 		</div>
 	</div>
+
 	<div class="languages-container">
-		<div class="row">
-			<div class="col-md-12">
-			
+
 				@if( Request::segment(4) == 'edit' )
 					<ul class="alert alert-info form-inline">
 						<li class="form-group">
@@ -40,11 +39,11 @@
 						</li>
 					</ul>
 				@endif
-				
+
 				@if(Session::has('success'))
 					<div class="alert alert-success" role="alert">{{ Session::get('success') }}</div>
 				@endif
-				
+
 				@if( $errors->any() )
 					<ul class="alert alert-danger">
 						@foreach( $errors->all() as $error )
@@ -52,9 +51,9 @@
 						@endforeach
 					</ul>
 				@endif
-				
+
 				{!! Form::open(['class' => 'form-horizontal', 'role' => 'form', 'files' => true]) !!}
-				
+
 					<div class="form-group">
 						<div class="col-sm-12">
 							<div class="input-group">
@@ -78,7 +77,7 @@
 							{!! Form::select('visible', [ 0 => 'Не показывать товар', 1 => 'Показывать товар'], $post->visible, ['class' => 'form-control']) !!}
 						</div>
 					</div>
-					
+
 					@if( Request::segment(4) == 'edit' )
 						<div class="form-group">
 							{!! Form::label('products_exceptions', 'Товары исключения', ['class' => 'col-sm-2 control-label']) !!}
@@ -90,7 +89,7 @@
 							</div>
 						</div>
 					@endif
-					
+
 					<!-- Languages controls -->
 					<div class="form-group">
 						<ul class="languages-caption">
@@ -114,7 +113,31 @@
 							</li>
 						</ul>
 					</div>
-				
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="form-group">
+                            {!! Form::label('stop_word', 'Стоп-слова', ['class' => 'col-sm-2 control-label']) !!}
+
+                            <div class="col-sm-10">
+                                <table class="stop_word_table">
+                                    <tr class="stop_word_col">
+                                        <td class="button_add_stop_word">
+                                            <button type="button" class="btn btn-default btn-xs add_word"><span class="glyphicon glyphicon-plus" aria-hidden="true"></span>
+                                            </button>
+                                        </td>
+                                        <td>
+
+                                            <div class="stop_name_container" style="display: flex; margin-right: 10px;">
+                                                <!--{!! Form::text('stop_word',  $post->name, ['class' => 'form-control']) !!}-->
+                                                <input type="text" name="stop_word[]" class="form-control" value=''/>
+                                                <button type="button" class="btn btn-default btn-xs delete_word"><span class="glyphicon glyphicon-minus" aria-hidden="true"></span>
+                                            </div>
+
+                                        </td>
+                                    </tr>
+                                </table>
+                            </div>
+                        </div>
 					<!-- RU -->
 					<div class="languages-content active">
 						<!-- Nav tabs -->
@@ -166,7 +189,6 @@
 						</div>
 						<!-- End panes -->
 					</div>
-				
 					<!-- UA -->
 					<div class="languages-content">
 						<!-- Nav tabs -->
@@ -218,7 +240,6 @@
 						</div>
 						<!-- End panes -->
 					</div>
-				
 					<!-- EN -->
 					<div class="languages-content">
 						<!-- Nav tabs -->
@@ -275,19 +296,44 @@
 							<button type="submit" class="btn btn-success">Сохранить</button>
 						</div>
 					</div>
-				
+                </div>
 				{!! Form::close() !!}
-				
-			</div>
-		</div>
+                </div>
 	</div>
 	<script>
 		// Переключение языков
 		$('ul.languages-caption').on('click', 'li:not(.active)', function(){
 			$(this).addClass('active').siblings().removeClass('active').closest('div.languages-container')
-			.find('div.languages-content').removeClass('active').eq($(this).index()).addClass('active');
-		});
-		
+			.find('div.languages-content').removeClass('active').eq($(this).index()).addClass('active');});
+        $( document ).ready(
+            keyWords()
+        );
+        //Key Words
+        var ch_lang;
+        var pref='ru';
+        function keyWords(){
+
+
+
+            $('.add_word').on('click', function(){
+
+                console.log(pref);
+                $('.button_add_stop_word').before(function(){
+                    $('.stop_word_col').append(
+                        '<td>'+
+                            '<div class="stop_name_container" style="display: flex; margin-right: 10px;">'+
+                            '<input type="text" name="stop_word[]" class="form-control" />'+
+                            '<button type="button" class="btn btn-default btn-xs delete_word"><span class="glyphicon glyphicon-minus " aria-hidden="true"></span>'+
+                            '</div>'+
+                            '</td>'
+                    );
+                })
+            });
+
+            $('body').on('click','.delete_word',function(){
+                $(this).closest('td').remove();
+            });
+        }
 		// Генерация данных
 		meta_title_touched = false;
 		url_touched = false;

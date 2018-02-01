@@ -12,7 +12,6 @@ class Product extends Model
 	protected $table = 'products';
 	
 	protected $guarded = [];
-	
 	// Название товара
 	public function getNameAttribute(){
 		$locale = App::getLocale();

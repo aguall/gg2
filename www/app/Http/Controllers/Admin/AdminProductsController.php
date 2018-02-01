@@ -2,6 +2,8 @@
 
 namespace App\Http\Controllers\Admin;
 
+use App\Models\StopWord;
+use App\Models\ProductStopWord;
 use Illuminate\Http\Request;
 
 use App\Http\Requests;
@@ -123,15 +125,29 @@ class AdminProductsController extends AdminBaseController
 		// Категории
 		$categories = ['0' => 'Выберите категорию...'] + $this->categories;
 
-		return view('admin.editProduct', compact(['title', 'post', 'categories']) );
+        $product_stop_words=ProductStopWord::where('product_id','=',$id);
+
+		return view('admin.editProduct', compact(['title', 'post', 'categories','product_stop_words']) );
 	}
 	
 	// Редактирование товара
 	public function postProductEdit( ProductRequest $request, $id ){
 		
-		Product::find( $id )->update( $request->except('_token') );
+		Product::find( $id )->update( $request->except('_token','stop_word') );
+        $stop_words = $request->get('stop_word');
+        foreach($stop_words as $word) {
+            $check_word = StopWord::where('name','like',$word) -> first();
+            if(!$check_word) {
+                $check_word = StopWord::create(array('name' => $word));
+            }
 
-		return redirect('/master/shop/products/edit/' . $id)->with('success', 'Товар обновлён!');
+            $check_word_id=ProductStopWord::where('stop_word_id','like',$check_word->id) ->where('product_id','like',$id)->first();
+            if(!$check_word_id){
+                ProductStopWord::create(array('product_id'=>$id,'stop_word_id'=>$check_word->id));
+
+            }
+        }
+		return redirect('/master/shop/products/edit/' . $id)->with('success', 'Товар обновлён!','prid');
 	}
 	
 	// Показать/скрыть товар
